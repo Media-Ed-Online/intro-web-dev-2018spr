@@ -1,10 +1,16 @@
-- title: Getting Started
+- title: 1. Internetting
   docs:
   - home
   - themes
   - customization
 
-- title: Examples
+- title: 2. Markdown
+  docs:
+  - cheatsheet
+  - font-awesome
+  - bootstrap
+
+- title: 3. Project 1
   docs:
   - cheatsheet
   - font-awesome
