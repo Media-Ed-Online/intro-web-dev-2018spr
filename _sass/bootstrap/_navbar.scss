@@ -236,6 +236,9 @@
     padding-top:    10px;
     padding-bottom: 10px;
     line-height: $line-height-computed;
+    /*Justine*/
+    text-transform: uppercase;
+    font-size: $font-size-small;
   }
 
   @media (max-width: $grid-float-breakpoint-max) {
@@ -244,19 +247,29 @@
       position: static;
       float: none;
       width: auto;
-      margin-top: 0;
-      background-color: transparent;
-      border: 0;
+      /*margin-top: 0;*/
+      /*background-color: transparent;*/
+      /*border: 0;*/
       box-shadow: none;
+      /*Justine*/
+      background-color: $dropdown-bg;
+      margin: 10px 20px;
+      border: transparent;
+      border-radius: 3px;
       > li > a,
       .dropdown-header {
         padding: 5px 15px 5px 25px;
       }
       > li > a {
         line-height: $line-height-computed;
+        /*Justine*/
+        color: $dropdown-link-color !important;
         &:hover,
         &:focus {
           background-image: none;
+          /*Justine*/
+          color: $dropdown-link-hover-color !important;
+          background-color: $link-hover-color !important;
         }
       }
     }
