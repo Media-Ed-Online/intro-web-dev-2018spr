@@ -13,34 +13,33 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li {% if page.sectionid=='docs' %} class="active" {% endif %}><a href="{{ "/docs/home/" | prepend: site.baseurl }}">Modules</a></li>
+                <!--<li {% if page.sectionid=='docs' %} class="active" {% endif %}><a href="{{ "/docs/home/" | prepend: site.baseurl }}">Modules</a></li>-->
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}">Blog</a></li>
-
-                <li {% if page.sectionid=='blog' %} class="active " {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown">Dropdown  <span class="caret"></span></a>
+                <li {% if page.sectionid=='modules' %} class="active " {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown">Modules  <span class="caret"></span></a>
                   <ul class="dropdown-menu">
                     <h4 style="padding-left: 10px; text-transform: uppercase;">Project 1</h4>
-                      <li><a href="{{site.baseurl}}/docs/home/">Week 1</a></li>
-                      <li><a href="{{site.baseurl}}/docs/themes/">Week 2</a></li>
-                      <li><a href="docs/customization/">Week 3</a></li>
+                      <li><a href="{{site.baseurl}}/docs/topic-01/overview/">Week 1</a></li>
+                      <li><a href="{{site.baseurl}}/docs/topic-02/overview/">Week 2</a></li>
+                      <li><a href="{{site.baseurl}}/docs/topic-03/overview/">Week 3</a></li>
                     <li class="divider"></li>
                     <h4 style="padding-left: 10px; text-transform: uppercase;">Project 2</h4>
-                      <li><a href="#">Week 4</a></li>
-                      <li><a href="#">Week 5</a></li>
-                      <li><a href="#">Week 5</a></li>
-                      <li><a href="#">Week 7</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 4</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 5</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 6</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 7</a></li>
                     <li class="divider"></li>
                     <h4 style="padding-left: 10px; text-transform: uppercase;">Project 3</h4>
-                      <li><a href="#">Week 8</a></li>
-                      <li><a href="#">Week 9</a></li>
-                      <li><a href="#">Week 10</a></li>
-                      <li><a href="#">Week 11</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 8</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 9</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 10</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 11</a></li>
                     <li class="divider"></li>
                     <h4 style="padding-left: 10px; text-transform: uppercase;">Project 4</h4>
-                      <li><a href="#">Week 12</a></li>
-                      <li><a href="#">Week 13</a></li>
-                      <li><a href="#">Week 14</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 12</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 13</a></li>
+                      <li class="navbar-link disabled"><a href="#">Week 14</a></li>
                     <li class="divider"></li>
-                    <li><a href="#">Extra Credit</a></li>
+                    <li class="navbar-link disabled"><a href="#">Extra Credit</a></li>
                   </ul>
               </li>
             </ul>
@@ -53,6 +52,7 @@
                 </form>
                 <ul class="nav navbar-nav">
                     <li><a href="{{ site.git_address }}"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a></li>
+                    <li><a href="https://ummediaarts.slack.com/"><i class="fa fa-slack fa-lg" aria-hidden="true"></i></a></li>
                 </ul>
             </div>
         </div>
