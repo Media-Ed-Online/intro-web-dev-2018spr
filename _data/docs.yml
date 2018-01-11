@@ -1,6 +1,9 @@
+- title: Introduction
+  docs:
+  - welcome
+
 - title: 1. Internetting
   docs:
-  - home
   - themes
   - customization
 
@@ -11,7 +14,25 @@
   - bootstrap
 
 - title: 3. Project 1
-  docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+
+- title: 4. Intro to HTML
+
+- title: 5. Figures and Forms
+
+- title: 6. Managing Media
+
+- title: 7. Project 2
+
+- title: 8. Intro to CSS
+
+- title: 9. Typography
+
+- title: 10. The Box Model
+
+- title: 11. Project 3
+
+- title: 12. Responsive Web Design
+
+- title: 13. Layout
+
+- title: 14. Project 4
