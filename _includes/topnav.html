@@ -17,6 +17,8 @@
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}">Blog</a></li>
                 <li {% if page.sectionid=='docs' %} class="active " {% endif %}><a href="{{ "/docs/home/" | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown">Modules  <span class="caret"></span></a>
                   <ul class="dropdown-menu">
+                    <li><a href="{{site.baseurl}}/docs/intro/">Introduction</a></li>
+                    <li class="divider"></li>
                     <h4 style="padding-left: 10px; text-transform: uppercase;">Project 1</h4>
                       <li><a href="{{site.baseurl}}/docs/topic-01/overview/">Week 1</a></li>
                       <li><a href="{{site.baseurl}}/docs/topic-02/overview/">Week 2</a></li>
