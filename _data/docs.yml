@@ -1,38 +1,54 @@
-- title: Introduction
-  docs:
-  - welcome
+examples:
+  - title: Getting Started
+    docs:
+    - home
+    - themes
+    - customization
 
-- title: 1. Internetting
-  docs:
-  - themes
-  - customization
+  - title: Examples
+    docs:
+    - cheatsheet
+    - font-awesome
+    - bootstrap
 
-- title: 2. Markdown
-  docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+topic-01:
+  - title: "\"Internetting\""
+    docs:
+    - overview
 
-- title: 3. Project 1
+  - title: 01. What is the Web?
+    docs:
+    - pagename1
+    - pagename2
 
-- title: 4. Intro to HTML
+  - title: 02. Git Version Control
+    docs:
+    - pagename3
 
-- title: 5. Figures and Forms
+topic-02:
+  - title: "\"Markdown\""
+    docs:
+    - overview
 
-- title: 6. Managing Media
+  - title: T2 Part 1
+    docs:
+    - pagename1
+    - pagename2
 
-- title: 7. Project 2
+  - title: T2 Part 2
+    docs:
+    - pagename3
+    - pagename4
 
-- title: 8. Intro to CSS
+  - title: T2 Part 3
+    docs:
+    - pagename5
+    - pagename6
 
-- title: 9. Typography
-
-- title: 10. The Box Model
-
-- title: 11. Project 3
-
-- title: 12. Responsive Web Design
-
-- title: 13. Layout
-
-- title: 14. Project 4
+topic-03:
+  - title: "\"Project 1: My First Webpage\""
+    docs:
+    - overview
+  - title: T3 Part 1
+    docs:
+    - pagename1

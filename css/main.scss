@@ -51,7 +51,7 @@ body {
   // background-attachment: fixed;
   background-size: cover;
   background-position: center 36%;
-  margin-top: -37px;
+  margin-top: -57px;
 }
 .navbar-container {
   font-size: 16px;
@@ -63,12 +63,12 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 46px;
+  /*height: 46px;*/
+  height: auto;
   padding-top: 10px;
   background-color: $gray-lighter;
   color: $gray-dark;
 }
-
 
 .post-list-container {
   li a.active {

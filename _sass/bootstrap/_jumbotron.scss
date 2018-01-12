@@ -37,7 +37,7 @@
   }
 
   @media screen and (min-width: $screen-sm-min) {
-    padding-top:    ($jumbotron-padding * 1.6);
+    padding-top:    ($jumbotron-padding * 2.6);
     padding-bottom: ($jumbotron-padding * 1.6);
 
     .container &,
@@ -49,6 +49,18 @@
     h1,
     .h1 {
       font-size: $jumbotron-heading-font-size;
+    }
+  }
+
+  /*Justine*/
+  @media (max-width: $grid-float-breakpoint-max) {
+    padding-top:    ($jumbotron-padding * 3.6);
+    padding-bottom: ($jumbotron-padding * 1.6);
+
+    .container &,
+    .container-fluid & {
+      padding-left:  ($jumbotron-padding * 2);
+      padding-right: ($jumbotron-padding * 2);
     }
   }
 }

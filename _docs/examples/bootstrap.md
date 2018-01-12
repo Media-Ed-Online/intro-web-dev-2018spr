@@ -1,5 +1,6 @@
 ---
 title: Bootstrap Features
+module: examples
 permalink: /docs/bootstrap/
 ---
 

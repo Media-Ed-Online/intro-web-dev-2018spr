@@ -1,7 +1,27 @@
-<!--
-<h3>Weekly Topics</h3>
+<!-- Topic Name
+<div class="topic-header">
+  {% if page.module %}
+    <h2>"{{ site.data.modules[page.module][0] }}"</h2>
+  {% endif %}
+</div> -->
+
+<!-- Current Assignments -->
+<div class="panel panel-info" id="assignments">
+    <div class="panel-heading">
+        <h3 class="panel-title">Current Assignment(s)</h3>
+    </div>
+    <div class="panel-body">
+      {% if page.module %}
+            {{ site.data.assignments[page.module][0] }}<br />
+            <span class="label label-warning">Due:</span> {{ site.data.dates[page.module][0] }}
+      {% endif %}
+    </div>
+</div>
+
+<!-- Example Pages -->
+{% if page.module contains 'examples' %}
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-{% for section in site.data.docs %}
+{% for section in site.data.docs['examples'] %}
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
@@ -22,12 +42,12 @@
   </div>
 {% endfor %}
 </div>
--->
+{% endif %}
 
 <!-- TOPIC 01 -->
 {% if page.module contains 'topic-01' %}
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-{% for section in site.data.docs-topic-01 %}
+{% for section in site.data.docs['topic-01'] %}
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
@@ -54,7 +74,7 @@
 <!-- TOPIC 02 -->
 {% if page.module contains 'topic-02' %}
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-{% for section in site.data.docs-topic-02 %}
+{% for section in site.data.docs['topic-02'] %}
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
@@ -81,7 +101,7 @@
 <!-- TOPIC 03 -->
 {% if page.module contains 'topic-03' %}
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-{% for section in site.data.docs-topic-03 %}
+{% for section in site.data.docs['topic-03'] %}
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">

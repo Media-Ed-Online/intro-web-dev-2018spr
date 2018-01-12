@@ -8,14 +8,14 @@
         <span class="icon-bar"></span>
       </button>
             <a class="navbar-brand" href="{{ site.baseurl }}/">
-                <span><img src="{{site.baseurl}}/img/logonav.png"></span> {{ site.title }}
+                <span><img src="{{site.baseurl}}/img/logonav.png" style="margin-right: 5px;"></span> {{ site.title }}
             </a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <!--<li {% if page.sectionid=='docs' %} class="active" {% endif %}><a href="{{ "/docs/home/" | prepend: site.baseurl }}">Modules</a></li>-->
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}">Blog</a></li>
-                <li {% if page.sectionid=='modules' %} class="active " {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown">Modules  <span class="caret"></span></a>
+                <li {% if page.sectionid=='docs' %} class="active " {% endif %}><a href="{{ "/docs/home/" | prepend: site.baseurl }}" class="dropdown-toggle" data-toggle="dropdown">Modules  <span class="caret"></span></a>
                   <ul class="dropdown-menu">
                     <h4 style="padding-left: 10px; text-transform: uppercase;">Project 1</h4>
                       <li><a href="{{site.baseurl}}/docs/topic-01/overview/">Week 1</a></li>
@@ -39,20 +39,20 @@
                       <li class="navbar-link disabled"><a href="#">Week 13</a></li>
                       <li class="navbar-link disabled"><a href="#">Week 14</a></li>
                     <li class="divider"></li>
-                    <li class="navbar-link disabled"><a href="#">Extra Credit</a></li>
+                    <li class="navbar-link disabled"><a href="#">Finals</a></li>
                   </ul>
               </li>
             </ul>
             <div class="navbar-right">
-                <form class="navbar-form navbar-left">
+                <!--<form class="navbar-form navbar-left">
                     <div class="form-group has-feedback">
                         <input id="search-box" type="text" class="form-control" placeholder="Search...">
                         <i class="fa fa-search form-control-feedback"></i>
                     </div>
-                </form>
+                </form>-->
                 <ul class="nav navbar-nav">
-                    <li><a href="{{ site.git_address }}"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a></li>
-                    <li><a href="https://ummediaarts.slack.com/"><i class="fa fa-slack fa-lg" aria-hidden="true"></i></a></li>
+                    <li style="display: inline-block;"><a href="{{ site.git_address }}"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a></li>
+                    <li style="display: inline-block;"><a href="https://ummediaarts.slack.com/"><i class="fa fa-slack fa-lg" aria-hidden="true"></i></a></li>
                 </ul>
             </div>
         </div>

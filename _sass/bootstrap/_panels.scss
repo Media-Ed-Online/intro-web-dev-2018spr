@@ -12,6 +12,13 @@
   @include box-shadow(0 1px 1px rgba(0,0,0,.05));
 }
 
+#assignments {
+  /*Justine*/
+  @media (max-width: $screen-xs) {
+    margin-top: ($navbar-height * 1.4);
+  }
+}
+
 // Panel contents
 .panel-body {
   padding: $panel-body-padding;
@@ -67,7 +74,7 @@
     .list-group-item {
       border-width: 1px 0;
       border-radius: 0;
-      /*Justine*/ margin-left: 30px;
+      /*Justine margin-left: 30px;*/
     }
 
     // Add border top radius for first one

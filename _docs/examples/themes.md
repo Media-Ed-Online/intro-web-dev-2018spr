@@ -1,5 +1,6 @@
 ---
 title: Themes
+module: examples
 permalink: /docs/themes/
 ---
 

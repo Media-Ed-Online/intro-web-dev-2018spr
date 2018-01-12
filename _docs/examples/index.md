@@ -1,10 +1,13 @@
 ---
 title: Welcome
+module: examples
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
 ## Getting started
+
+Origination: [https://aksakalli.github.io/jekyll-doc-theme/](https://aksakalli.github.io/jekyll-doc-theme/)
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.

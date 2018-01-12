@@ -1,5 +1,6 @@
 ---
 title: Customization
+module: examples
 permalink: /docs/customization/
 ---
 
