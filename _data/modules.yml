@@ -1,5 +1,6 @@
 # Modules
 examples: ["Theme Examples"]
+introduction: ["Introduction"]
 topic-01: ["Internetting"]
 topic-02: ["Markdown"]
 topic-03: ["My First Webpage"]

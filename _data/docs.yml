@@ -1,7 +1,8 @@
+# TEMPLATE PAGES
 examples:
   - title: Getting Started
     docs:
-    - home
+    - index
     - themes
     - customization
 
@@ -11,6 +12,18 @@ examples:
     - font-awesome
     - bootstrap
 
+# INTRODUCTION
+introduction:
+  - title: Getting Started
+    docs:
+    - welcome
+
+  - title: Format
+    docs:
+    - website
+    - moodle
+
+# TOPIC 01
 topic-01:
   - title: "\"Internetting\""
     docs:
@@ -25,6 +38,7 @@ topic-01:
     docs:
     - pagename3
 
+# TOPIC 02
 topic-02:
   - title: "\"Markdown\""
     docs:
@@ -45,6 +59,8 @@ topic-02:
     - pagename5
     - pagename6
 
+
+# TOPIC 03
 topic-03:
   - title: "\"Project 1: My First Webpage\""
     docs:

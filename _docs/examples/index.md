@@ -1,8 +1,8 @@
 ---
 title: Welcome
 module: examples
-permalink: /docs/home/
-redirect_from: /docs/index.html
+permalink: /docs/index/
+#redirect_from: /docs/index
 ---
 
 ## Getting started

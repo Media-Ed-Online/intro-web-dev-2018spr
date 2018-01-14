@@ -1,0 +1,9 @@
+<nav class="breadcrumb" role="navigation" aria-label="breadcrumbs">
+  <a href="/" title="Home">Home</a>
+  {% if page.module %}
+    <span aria-hidden="true">&rsaquo;</span>
+    <span>{{ page.module }}</span>
+    <span aria-hidden="true">&rsaquo;</span>
+    <span>{{ page.title }}</span>
+  {% endif %}
+</nav>

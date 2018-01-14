@@ -82,6 +82,14 @@ body {
   height: 75px;
   visibility: hidden;
 }
-.navbar-form .has-feedback .form-control-feedback{
-  top:10px
+.navbar-form .has-feedback .form-control-feedback {
+  top:10px;
 }
+
+/*.breadcrumb {
+  position: fixed;
+  text-align: right
+  top: ($navbar-height / 2);
+  z-index: 10;
+  background-color: $brand-info;
+}*/
