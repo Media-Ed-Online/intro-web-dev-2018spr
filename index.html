@@ -34,7 +34,15 @@ layout: default
         </div>
     </div>
 
-    <hr>
+    <!--<hr>-->
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="page-header">
+          <h2>Course Documents <small><span style="white-space: nowrap;" class="text-primary">Spring 2018</span></small></h2>
+        </div>
+      </div>
+    </div>
 
     <div class="row">
         <div class="col-sm-4">
@@ -54,7 +62,7 @@ layout: default
             <h3 class="text-center">Need Aid?</h3>
             <p>Leverage from Git version control system by
               maintaining your documentation along with the source code; publish the page when you merge to the master branch.</p>
-            <p><a class="btn btn-info" href="{{ "/posts/current-schedule/" | prepend: site.baseurl }}" role="button">Post an Issue...</a></p>
+            <p><a class="btn btn-info" href="{{ site.git_address | append: "-resources/issues" }}" role="button">Post an Issue...</a></p>
         </div>
     </div>
 

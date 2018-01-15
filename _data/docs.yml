@@ -25,7 +25,7 @@ introduction:
 
 # TOPIC 01
 topic-01:
-  - title: "\"Internetting\""
+  - title: "\"Intro to Development\""
     docs:
     - overview
 
@@ -40,7 +40,7 @@ topic-01:
 
 # TOPIC 02
 topic-02:
-  - title: "\"Markdown\""
+  - title: "\"Beginning Design\""
     docs:
     - overview
 

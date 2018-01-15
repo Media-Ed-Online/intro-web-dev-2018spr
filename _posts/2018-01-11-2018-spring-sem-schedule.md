@@ -5,6 +5,130 @@ author: Justine
 permalink: /posts/current-schedule/
 ---
 
-## Week 1
-- Introduction to the Web
-- GitHub.com Registration
+<p><span class="label label-success">Note:</span> All activities are due Mondays by 11:55PM:</p>
+
+<br />
+
+## Week 1: Mon, Jan 22 - Mon, Jan 29
+### <span class="caret-right"></span><a href="/docs/welcome/">Introduction</a>
+- Student Contract*
+- Class Walkthrough*
+
+_*Further activties will be unavailable until all introductory items are compeleted._
+
+### <span class="caret-right"></span><a href="/docs/topic-01/">Intro to Development</a>
+Introduction to the web, GitHub.com registration, directory managment, and setting up your development environment.
+- A1: File Management
+
+<div class="divider"></div>
+
+## Week 2: Mon, Jan 29 - Mon, Feb 05
+### <span class="caret-right"></span><a href="/docs/topic-02/">Markdown</a>
+Continuing discussion on the web and net, creating new files, documenting progress, and exploring the versitility of Markdown.
+- A2: My First Readme
+
+<div class="divider"></div>
+
+## Week 3: Mon, Feb 05 - Mon, Feb 12
+### <span class="caret-right"></span><a href="/docs/topic-03/">Project 1: My First Webpage!</a>
+Publishing a single-page site utilizing basic HTML, and the first peer Workshop of the semester.
+- P1: My First Webpage!
+- P1 Workshop (Submission)
+
+<div class="divider"></div>
+
+## Week 4: Mon, Feb 12 - Mon, Feb 19
+### <span class="caret-right"></span><a href="/docs/topic-04/">Intro to HTML</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- A3: Markup'd Manual
+- P1 Workshop (Assessments)
+
+<div class="divider"></div>
+
+## Week 5: Mon, Feb 19 - Mon, Feb 26
+### <span class="caret-right"></span><a href="/docs/topic-05/">Figures and Forms</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- A4: Questionnaire
+
+<div class="divider"></div>
+
+## Week 6: Mon, Feb 26 - Mon, Mar 05
+### <span class="caret-right"></span><a href="/docs/topic-06/">Managing Media</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- A5: Multi-Media
+
+<div class="divider"></div>
+
+## Week 7: Mon, Mar 05 - Mon, Mar 12
+### <span class="caret-right"></span><a href="/docs/topic-07/">Project 2: The Instructable</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- P2: The Instructable
+- P2 Workshop (Submission)
+
+<div class="divider"></div>
+
+## Week 8: Mon, Mar 12 - Mon, Mar 19
+### <span class="caret-right"></span><a href="/docs/topic-08/">Intro to CSS</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- A6: Color
+- P2 Workshop (Assessments)
+
+<div class="divider"></div>
+
+## Week 9: Mon, Mar 19 - Mon, Mar 26
+### <span class="caret-right"></span><a href="/docs/topic-09/">Typography</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- A7: Fots
+
+<div class="divider"></div>
+
+## Week 10: Mon, Mar 26 - Mon, Apr 02
+_Spring Break. There are no assignments this week._
+
+<div class="divider"></div>
+
+## Week 11: Mon, Apr 02 - Apr 09
+### <span class="caret-right"></span><a href="/docs/topic-10/">The Box Model</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- A8: Basic layout
+
+<div class="divider"></div>
+
+## Week 12: Mon, Apr 09 - Mon, Apr 16
+### <span class="caret-right"></span><a href="/docs/topic-11/">Project 3: The Literature Showcase</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- P3: The Literature Showcase
+- P3 Workshop (Submission)
+
+<div class="divider"></div>
+
+## Week 13: Mon, Apr 16 - Mon, Apr 23
+### <span class="caret-right"></span><a href="/docs/topic-12/">Responsive Web Design</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- A9: Being Responsive-ble
+- P3 Workshop (Assessments)
+
+<div class="divider"></div>
+
+## Week 14: Mon, Apr 23 - Mon, Apr 30
+### <span class="caret-right"></span><a href="/docs/topic-13/">Layout Design</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- A10: Parallax Scrolling
+
+<div class="divider"></div>
+
+## Week 15: Mon, Apr 30 - Mon, May 07
+### <span class="caret-right"></span><a href="/docs/topic-14/">Project 4: The Profile Site</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- P4: The Profile Site
+- P4 Workshop (Submission)
+
+<div class="divider"></div>
+
+## Week 16: Wed, May 09
+### <span class="caret-right"></span><a href="/docs/finals/">Finals</a>
+Include a short sentence about upcoming topic here. It should include basic details and descriptions.
+- P4 Workshop (Assessments)
+- Participation Credit Calculated
+- Late Work
+- Extra Credit
