@@ -8,3 +8,5 @@ redirect_from: /docs/topic-01/
 ## Getting started
 
 This is a new page.
+
+![test](../img/justine.png)

@@ -114,3 +114,11 @@ body {
   overflow: hidden;
   background-color: $dropdown-divider-bg;
 }
+
+.well-inverted {
+  @include gradient-vertical($start-color: darken($brand-info, 5%), $end-color: $brand-info);
+  border-color: darken($brand-info, 10%);
+  $shadow: inset 0 1px 3px rgba(0,0,0,.05), 0 1px 0 rgba(255,255,255,.1);
+  @include box-shadow($shadow);
+  color: $well-bg;
+}
