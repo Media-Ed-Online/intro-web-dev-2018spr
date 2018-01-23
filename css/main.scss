@@ -42,16 +42,21 @@ body {
 
 .header-container {
   background-color: black;
-  background: url('../img/bg.jpg') no-repeat 50% 0;
+  background: url('/img/bg2.jpg') no-repeat 50% 0;
   color: #fff;
 
-  h1 {
-    color: #fff;
+  .header-text {
+    background-color: rgba(255, 255, 255, .9);
+    color: #333;
+    padding: 10px 20px;
+    margin-bottom: 20px;
   }
   // background-attachment: fixed;
   background-size: cover;
-  background-position: center 36%;
+  /*background-position: center 36%;*/
+  /*Justine*/ background-position: center 18%;
   margin-top: -57px;
+
 }
 .navbar-container {
   font-size: 16px;
@@ -122,3 +127,8 @@ body {
   @include box-shadow($shadow);
   color: $well-bg;
 }
+
+
+/*--------------------
+| Justine's Additions |
+ --------------------*/
