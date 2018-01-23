@@ -28,6 +28,13 @@
   border: 1px solid $list-group-border;
   /*Justine*/ padding-left: 30px;
 
+  p {
+    /*Justine*/
+    font-size: $font-size-base;
+    margin: 5px auto;
+    color: $btn-link-disabled-color;
+  }
+
   // Round the first and last items
   &:first-child {
     @include border-top-radius($list-group-border-radius);

@@ -18,10 +18,22 @@ introduction:
     docs:
     - welcome
 
-  - title: Format
+  - title: 01. Learning Materials
     docs:
     - website
     - moodle
+
+  - title: 02. Homework
+    docs:
+    - homework
+    - todo-hw
+
+  - title: 03. Submitting
+    docs:
+    - gh-overview
+    - gh-registration
+    - gh-issues
+    - todo-gh
 
 # TOPIC 01
 topic-01:
@@ -29,14 +41,50 @@ topic-01:
     docs:
     - overview
 
-  - title: 01. What is the Web?
+  - title: 01. Q & A with "the Internet"
     docs:
-    - pagename1
-    - pagename2
+    - what-is-the-net
+    - what-is-the-web
+    - how-the-net-works
+    - todo-net
 
-  - title: 02. Git Version Control
+  - title: 02. Web Development
     docs:
-    - pagename3
+    - what-is-web-dev
+    - todo-web
+
+  - title: 03. Text Documents and Editors
+    docs:
+    - text-docs
+    - word-processors
+    - plain-text
+    - text-editors
+    - todo-text-editors
+
+  - title: 04. Atom Text Editor
+    docs:
+    - atom-intro
+    - atom-base-install
+    - atom-optional-install
+    - todo-atom
+
+  - title: 05. Markup and Markdown
+    docs:
+    - markup
+    - markdown
+    - styles-word
+    - styles-markdown
+    - todo-markdown
+
+  - title: 06. README.md Files
+    docs:
+    - readme
+    - create-readme
+    - todo-readme
+
+  - title: Self-Assessment (Optional)
+    docs:
+    - markdown-quiz
 
 # TOPIC 02
 topic-02:
