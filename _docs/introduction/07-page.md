@@ -7,7 +7,7 @@ redirect_from: /docs/introduction/06-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-To complete this area of the course, you’ll need to have registered for a free GitHub account. We will discuss GitHub.com more in the next weeks, but in the mean time, I would you like you to know that GitHub is a web service which is used for storing git repositories by developers. (Much of that statement is still likely jargon to you, and that’s okay - it will all come in time.)
+To complete this area of the course, you’ll need to have registered for a free GitHub account. We will discuss GitHub.com more in the next weeks, but in the meantime, I would you like you to know that GitHub is a web service which is used for storing git repositories by developers. (Much of that statement is still likely jargon to you, and that’s okay - it will all come in time.)
 
 
 ## Create a GitHub.com Account

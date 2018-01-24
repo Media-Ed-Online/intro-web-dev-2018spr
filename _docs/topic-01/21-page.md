@@ -11,7 +11,7 @@ redirect_from: /docs/topic-01/21-page.md
 
 When we start developing sites in the next few topics, you'll add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it.
 
-If you put your README file in your repository's root directory, GitHub will recognize and automatically surface your README to repository visitors. Don't worry if this doesn't quitem make sense yet: we can provide an example! Go ahead, <a href="{{ site.git_address }}" target="_blank">check ours out</a>.
+If you put your README file in your repository's root directory, GitHub will recognize and automatically surface your README to repository visitors. Don't worry if this doesn't quite make sense yet: we can provide an example! Go ahead, <a href="{{ site.git_address }}" target="_blank">check ours out</a>.
 
 **For every project you submit, you will also write a short report in markdown.** This report should discuss a number of things every week:
 

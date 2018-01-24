@@ -1,5 +1,5 @@
 ---
-title: Self-Learning!
+title: Self-Learning Quiz
 module: introduction
 permalink: /docs/introduction/example-assessment/
 redirect_from: /docs/introduction/assess-01.md

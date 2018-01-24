@@ -38,7 +38,7 @@ Most text editors allow you to download additional packages created by the commu
   <div class="tab-pane fade" id="step5-1">
     <p>Step 5: Select "newbound-dark-syntax" as your “Syntax Theme."</p>
     <img src="../img/atom-install-theme.jpg" alt="example search for newbound-syntax-theme" />
-    <p style="font-size: small; margin: 0; padding-left: 50px;">"Newbound-dark-syntax" provides colorization for a number of languages, including markdown.</p>
+    <p style="font-size: small;">"Newbound-dark-syntax" provides colorization for a number of languages, including markdown.</p>
   </div>
 </div>
 

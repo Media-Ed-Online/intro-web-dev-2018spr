@@ -26,7 +26,7 @@ As the semester goes on you will be expected to open issues when you are having 
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="step1">
-    <p>Step 1: Go to the course repo either by clicking <a href="https://github.com/Media-Ed-Online/intro-web-dev-resources/issues" target="_blank">this link</a> or the GitHub octocat logo (<i class="fa fa-github" aria-hidden="true"></i>) from the navigation menu above.</p>
+    <p>Step 1: Go to the course's Resource repo either by clicking <a href="https://github.com/Media-Ed-Online/intro-web-dev-resources/issues" target="_blank">this link</a> or the GitHub octocat logo (<i class="fa fa-github" aria-hidden="true"></i>) from the navigation menu above.</p>
   </div>
   <div class="tab-pane fade" id="step2">
     <p>Step 2: Simply click on an issue to access it. Open issues are labeled with a green exclamation point. &nbsp;<img src="../img/hw-icon-github-issues.svg" alt="" style="display:inline; width: 15px; padding-bottom: 5px;"/></p>

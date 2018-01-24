@@ -11,4 +11,4 @@ Text files can be created and edited using a **"Text Editor”**, which is any a
 
 The default application on Mac and Windows are the following, respectively; _textEdit.app_ and _Notepad.exe._ However, specialty applications exist which can ease the type of work you will be undertaking this semester. These applications are designed to speed up the writing process and are specially designed to display text documents in a way that makes identifying errors more easy.
 
-There are many types of text editors, each optimized for specific types of tasks. This [Wikipedia page on text editors](https://en.wikipedia.org/wiki/Text_editor) will familiarize yourself with some of the specifics and differences. Pay particular attentions to the “Typical Features” section.
+There are many types of text editors, each optimized for specific types of tasks. This [Wikipedia page on text editors](https://en.wikipedia.org/wiki/Text_editor) will familiarize yourself with some of the specifics and differences. Pay particular attention to the “Typical Features” section.
