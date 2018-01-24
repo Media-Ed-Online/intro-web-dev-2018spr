@@ -29,7 +29,8 @@ Let's begin by creating your brty own README.md for Assignment 1 ("A1").
     <img src="../img/atom-new-readme-2.jpg" alt="First line in the Atom editor" />
   </div>
   <div class="tab-pane fade" id="step3">
-    <p>Step 3: Save the file as "README.md" or "readme.md" <b>only.</b> At this time, you can save it anywhere you'll remember.</p>
+    <p>Step 3: Save the file as "README.md" or "readme.md". At this time, you can save it anywhere you'll remember.</p>
+    <p><span class="label label-danger">IMPORTANT:</span> Only name your files "README.md" or "readme.md". No other names or spaces.</p>
     <img src="../img/atom-new-readme-3.jpg" alt="Saving a new readme in Atom" />
   </div>
   <div class="tab-pane fade" id="step4">
