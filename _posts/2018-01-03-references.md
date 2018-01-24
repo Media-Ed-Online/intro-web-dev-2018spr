@@ -24,5 +24,6 @@ This site is adapted from ACan Güney Aksakalli's "[Jekyll Doc](https://github.c
 Icons provided by:
 - <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>, licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
 - <a href="https://www.flaticon.com/authors/dinosoftlabs" title="DinosoftLabs">DinosoftLabs</a>, <a href="https://www.flaticon.com/authors/baianat" title="Baianat">Baianat</a>, <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>, licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
+- "Web Design Machine," flash animation (c) <a href="https://www.netsoftlab.com/full-flash.php">NetSoftLab</a>.
 
 Couse and site layout (c) [Justine Evans](mailto:justine.evans@umontana.edu), 2018.
