@@ -18,10 +18,11 @@ introduction:
     docs:
     - welcome
 
-  - title: 01. Learning Materials
+  - title: 01. Learning Resources
     docs:
-    - website
     - moodle
+    - website
+    - services
 
   - title: 02. Homework
     docs:
@@ -34,6 +35,10 @@ introduction:
     - gh-registration
     - gh-issues
     - todo-gh
+
+  - title: 04. Self-Assessment (Optional)
+    docs:
+      - example-assessment
 
 # TOPIC 01
 topic-01:
