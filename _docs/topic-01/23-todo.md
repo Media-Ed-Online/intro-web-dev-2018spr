@@ -19,7 +19,7 @@ redirect_from: /docs/topic-01/23-todo.md
           </div>
       </div>
   </div>
-  <div class="col-lg-4">
+  <!--<div class="col-lg-4">
       <div class="bs-component">
         <div class="list-group">
             <a href="https://moodle.umt.edu" class="list-group-item">
@@ -30,5 +30,5 @@ redirect_from: /docs/topic-01/23-todo.md
             </a>
           </div>
       </div>
-  </div>
+  </div>-->
 </div>
