@@ -38,9 +38,10 @@ This area will contain related areas you should explore. Most are required for d
           <div class="list-group">
               <a href="{{ site.url }}/docs/introduction/example-assessment" class="list-group-item">
                 <img src="../img/hw-icon-quiz.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
-                  <h4 class="list-group-item-heading">Example Quiz</h4>
-                  <span class="label label-warning" style="margin: 10px 0; display: block;">Optional</span>
+                  <h4 class="list-group-item-heading">Self-Learning Quiz</h4>
+                  <hr>
                   <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 minute assessment</p>
+                  <p><span class="label label-warning" style="margin: 10px 0;">Optional</span></p>
               </a>
             </div>
         </div>

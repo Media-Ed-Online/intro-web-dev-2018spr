@@ -25,8 +25,9 @@ redirect_from: /docs/topic-01/19-todo.md
               <a href="{{ site.url }}/docs/topic-01/markdown-quiz" class="list-group-item">
                 <img src="../img/hw-icon-quiz.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">Markdown Quiz</h4>
-                  <span class="label label-warning" style="margin: 10px 0; display: block;">Optional</span>
+                  <hr>
                   <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 10 minute assessment</p>
+                  <p><span class="label label-warning">Optional</span></p>
               </a>
             </div>
         </div>
