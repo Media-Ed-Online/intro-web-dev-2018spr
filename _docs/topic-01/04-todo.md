@@ -59,7 +59,7 @@ Please read the following chapters from codeschool.com's "[Beginner's Guide to W
             </div>
         </div>
     </div>
-    div class="col-lg-4">
+    <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
               <a href="http://emojitracker.com/" class="list-group-item">
