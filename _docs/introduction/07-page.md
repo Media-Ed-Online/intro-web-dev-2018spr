@@ -49,7 +49,7 @@ To complete this area of the course, you’ll need to have registered for a free
     <img src="../img/gh-settings.jpg" alt="GitHub profile set-up" />
   </div>
   <div class="tab-pane fade" id="step6">
-    <p>Step 5: After your account is created, select the avatar in the upper-right hand corner. This should produce a dropdown menu. From there select the “settings” option.</p>
+    <p>Fill out your <b>full name</b> for us to track for grading purposes.</p>
   </div>
   <div class="tab-pane fade" id="step6">
     <p>Step 6: Fill out your <b>full name</b> for us to track for grading purposes.</p>
