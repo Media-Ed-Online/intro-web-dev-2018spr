@@ -36,7 +36,7 @@ Please read the following chapters from codeschool.com's "[Beginner's Guide to W
     <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
-              <a href="http://info.cern.ch/hypertext/WWW/TheProject.html" class="list-group-item">
+              <a href="http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html" class="list-group-item">
                 <img src="../img/hw-icon-cern.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">Visit the First Website</h4>
                   <hr>
