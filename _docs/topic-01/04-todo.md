@@ -33,4 +33,30 @@ Please read the following chapters from codeschool.com's "[Beginner's Guide to W
             </div>
         </div>
     </div>
+    <div class="col-lg-4">
+        <div class="bs-component">
+          <div class="list-group">
+              <a href="http://info.cern.ch/hypertext/WWW/TheProject.html" class="list-group-item">
+                <img src="../img/hw-icon-cern.jpg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
+                  <h4 class="list-group-item-heading">Visit the First Website</h4>
+                  <hr>
+                  <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 5 minute activity</p>
+              </a>
+            </div>
+        </div>
+    </div>
 </div>
+<div class="row text-center">
+    <div class="col-lg-4">
+        <div class="bs-component">
+          <div class="list-group">
+              <a href="http://www.internetlivestats.com/one-second/" class="list-group-item">
+                <img src="../img/hw-icon-internet-live.svg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
+                  <h4 class="list-group-item-heading">Watch the Internet Live</h4>
+                  <hr>
+                  <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 minute activity</p>
+              </a>
+            </div>
+        </div>
+    </div>
+  </div>
