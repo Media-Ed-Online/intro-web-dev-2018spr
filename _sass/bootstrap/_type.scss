@@ -27,6 +27,7 @@ h2, .h2 {
   /*margin-bottom: ($line-height-computed / 2);*/
   /*Justine*/ margin-top: $line-height-computed * 2;
   margin-bottom: $line-height-computed;
+  line-height: $headings-line-height * 1.5;
 
   small,
   .small {

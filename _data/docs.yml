@@ -40,6 +40,7 @@ introduction:
     docs:
       - example-assessment
 
+
 # TOPIC 01
 topic-01:
   - title: "\"Intro to Development\""
@@ -91,26 +92,53 @@ topic-01:
     docs:
     - markdown-quiz
 
+
 # TOPIC 02
 topic-02:
-  - title: "\"Beginning Design\""
+  - title: "\"Your Dev Environment\""
     docs:
     - overview
 
-  - title: T2 Part 1
+  - title: 01. The Flow of Information
     docs:
-    - pagename1
-    - pagename2
+    - infrastructure
+    - protocols
+    - web-addresses
+    - urls
+    - todo-url
 
-  - title: T2 Part 2
+  - title: 02. File Management
     docs:
-    - pagename3
-    - pagename4
+    - files
+    - folders
+    - todo-folders
 
-  - title: T2 Part 3
+  - title: 03. GitHub.com
     docs:
-    - pagename5
-    - pagename6
+    - how-git
+    - why-git
+    - todo-git
+
+  - title: 04. GitHub GUI
+    docs:
+    - github-desktop-intro
+    - github-desktop-install
+    - todo-github-desktop
+
+  - title: 05. Developing with Git
+    docs:
+    - dev-part-1
+    - dev-part-2
+    - dev-part-3
+    - dev-part-4
+    - dev-part-5
+    - todo-setup
+
+  - title: 06. Intro to Linking
+    docs:
+    - link-files
+    - link-hw-repo
+    - todo-linking
 
 
 # TOPIC 03
@@ -118,6 +146,13 @@ topic-03:
   - title: "\"Project 1: My First Webpage\""
     docs:
     - overview
+
   - title: T3 Part 1
     docs:
     - pagename1
+
+  - title: 07. Snooping
+    docs:
+    - inspection
+    - wayback
+    - todo-Snooping
