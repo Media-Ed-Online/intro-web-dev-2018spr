@@ -10,11 +10,11 @@ redirect_from: /docs/topic-02/08-todo.md
     <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
-            <a href="{{ site.url }}/docs/topic-02/#" class="list-group-item">
+            <a href="../file-naming-quiz" class="list-group-item">
               <img src="../img/hw-icon-folder.svg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                 <h4 class="list-group-item-heading">File Naming Quiz</h4>
                 <hr>
-                <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 5 minute assessment</p>
+                <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 minute assessment</p>
                 <p><span class="label label-warning">Optional</span></p>
             </a>
             </div>

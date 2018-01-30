@@ -136,10 +136,14 @@ topic-02:
 
   - title: 06. Intro to Linking
     docs:
-    - link-files
-    - link-hw-repo
+    - link-internal
+    - link-same
+    - link-deeper
     - todo-linking
 
+  - title: Self-Assessment (Optional)
+    docs:
+    - file-naming-quiz
 
 # TOPIC 03
 topic-03:
