@@ -26,4 +26,8 @@ Icons provided by:
 - <a href="https://www.flaticon.com/authors/dinosoftlabs" title="DinosoftLabs">DinosoftLabs</a>, <a href="https://www.flaticon.com/authors/baianat" title="Baianat">Baianat</a>, <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a>, <a href="https://www.flaticon.com/authors/gregor-cresnar" title="Gregor Cresnar">Gregor Cresnar</a>, <a href="https://www.flaticon.com/authors/alfredo-hernandez" title="Alfredo Hernandez">Alfredo Hernandez</a>, from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>, licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
 - "Web Design Machine," flash animation (c) <a href="https://www.netsoftlab.com/full-flash.php">NetSoftLab</a>.
 
+Additional assets:
+- Animated Octocat (c) [Eli Fitch](https://codepen.io/elifitch/pen/YqrOWj)
+- Online Guide (c)  [PepCreations](http://www.pepcreations.com/solutions/studio-motion-animation/)
+
 Course and site layout (c) [Justine Evans](mailto:justine.evans@umontana.edu), 2018.
