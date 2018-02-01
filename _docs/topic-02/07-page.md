@@ -7,7 +7,7 @@ redirect_from: /docs/topic-02/07-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-We organize these different files into groups, just like you do with your other non-web-based files. We commonly refer to the containers of these files as "folders," because that's exactly as they function; folios containing related files. In addition, most operating systems represent these folders with graphic icons (folders), so its reasonable that we call them that.
+We organize these different files into groups, just like you do with your other non-web-based files. We commonly refer to the containers of these files as "folders," because that's exactly as they function; folios containing related files. In addition, most operating systems represent these folders with graphic icons (folders), so it's reasonable that we call them that.
 
 But once we branch away from our desktop however, this term is a little less applicable. Consider this URL:
 

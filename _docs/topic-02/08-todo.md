@@ -20,5 +20,4 @@ redirect_from: /docs/topic-02/08-todo.md
             </div>
         </div>
     </div>
-
 </div>

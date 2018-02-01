@@ -9,7 +9,7 @@ redirect_from: /docs/topic-02/
 
 ## 02: Your Dev Environment
 
-In the first Topic we spent time with an overview of this course itself, the Internet, the web, and what a web developer is. This Topic will build on these ideas by introducing our course development enviornment and more of the tools that you'll use throughout your time here.
+In the first Topic we spent time with an overview of this course itself, the Internet, the web, and what a web developer is. This Topic will build on these ideas by introducing our course development environment and more of the tools that you'll use throughout your time here.
 
 By the end of this Topic, we hope you:
 - Understand the importance of well-organized and -labeled files in web development.

@@ -9,6 +9,8 @@ redirect_from: /docs/topic-02/12-page.md
 
 Please following the appropriate instructions for your device.
 
+<span class="label label-warning">LOAD TIME:</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+
 <span class="label label-danger">IMPORTANT:</span> Take your time, and please follow these directions closely.
 
 ## For Mac

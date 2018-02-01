@@ -9,6 +9,8 @@ redirect_from: /docs/topic-02/15-page.md
 
 Since GitHub Desktop is nearly identical between Mac and PC, I will only be including one set of instructions for this section. If you get confused, please email your instructor.
 
+<span class="label label-warning">LOAD TIME:</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+
 <span class="label label-danger">IMPORTANT:</span> Take your time, and please follow these directions closely.
 
 ## Create a New Repository:

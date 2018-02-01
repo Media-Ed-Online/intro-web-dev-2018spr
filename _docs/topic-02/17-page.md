@@ -7,6 +7,8 @@ redirect_from: /docs/topic-02/17-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
+<span class="label label-warning">LOAD TIME:</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+
 <span class="label label-danger">IMPORTANT:</span> Take your time, and please follow these directions closely.
 
 ## Sending Files to GitHub.com

@@ -7,7 +7,7 @@ redirect_from: /docs/topic-02/04-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-Generally, we can think about "finding" a web location in one of two ways: via its _relative_ or _absolute_ address, or URL. Let's create a senario to start.
+Generally, we can think about "finding" a web location in one of two ways: via its _relative_ or _absolute_ address, or URL. Let's create a scenario to start.
 
 
 ## Absolute URLs
@@ -23,10 +23,10 @@ We can compare this to needing to know the city, street, building, and apartment
 ## Relative URLs
 
 <img src="../img/url-door.svg" alt="apartment building" style="width: 100px; float: right;" />
-**Relative URLs** contain no protocols or domain information. This is convenient because they are shorter, but can _only_ reference files in the same path. If I am the owner of **www.example.com** and am embedding "profile.jpg" on my About page, I can do so relatively with "./images/profile.jpg" as long as the images folder is in the same path as my page. I do not need an abosolute URL.
+**Relative URLs** contain no protocols or domain information. This is convenient because they are shorter, but can _only_ reference files in the same path. If I am the owner of **www.example.com** and am embedding "profile.jpg" on my About page, I can do so relatively with "./images/profile.jpg" as long as the images folder is in the same path as my page. I do not need an absolute URL.
 
-The "." is a path component stating that we need to remain in the current level of our directory heirarchy. Effecively, it says _"to find this file, begin here and then head down inside the images folder, where you'll find profile.jpg."_
+The "." is a path component stating that we need to remain in the current level of our directory hierarchy. Effectively, it says _"to find this file, begin here and then head down inside the images folder, where you'll find profile.jpg."_
 
-To continue our analgoy, since I'm already inside the same building as "profile.jpg," I only need its apartment number to find it.
+To continue our analogy, since I'm already inside the same building as "profile.jpg," I only need its apartment number to find it.
 
 This will be handy for you as you start to link to your own images within your repo.

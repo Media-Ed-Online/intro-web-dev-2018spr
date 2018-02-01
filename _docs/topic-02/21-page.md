@@ -9,7 +9,7 @@ redirect_from: /docs/topic-02/21-page.md
 
 ## Relative Linking Within Your Repository
 
-As you now know, the internet is built foundationally on links and inter-connected files and systems. We'll get into **hypertext** and **hyperlinks** later on in the course, but for right now, let's continue the [discussion on URL types](/docs/topic-02/urls/) and look at linking the files withing our directory together.
+As you now know, the internet is built foundationally on links and inter-connected files and systems. We'll get into **hypertext** and **hyperlinks** later on in the course, but for right now, let's continue the [discussion on URL types](/docs/topic-02/urls/) and look at linking the files within our directory together.
 
 You've done some linking in **markdown** already, using outside sources and _absolute_ URLs:
 
@@ -19,7 +19,7 @@ You've done some linking in **markdown** already, using outside sources and _abs
 
 <br />
 
-But I can also link to pages in this website using _relative_ URLs, as long as I stay within my  `/intro-web-dev` repository. As the adminstrator of this site, I can link to the same page like so:
+But I can also link to pages in this website using _relative_ URLs, as long as I stay within my  `/intro-web-dev` repository. As the administrator of this site, I can link to the same page like so:
 
 ```markdown
 [discussion on URL types](/docs/topic-02/urls/)
