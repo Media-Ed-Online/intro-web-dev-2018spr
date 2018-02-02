@@ -9,4 +9,6 @@ redirect_from: /docs/topic-02/23-page.md
 
 <span class="label label-warning">LOAD TIME:</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
 
+When a file is nested within other folders in the same directory, we need to provide directions to that file, or a "path."
+
 <iframe src="https://h5p.org/h5p/embed/177174" width="1090" height="950" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
