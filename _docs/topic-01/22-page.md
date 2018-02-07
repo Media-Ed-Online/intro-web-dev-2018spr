@@ -38,11 +38,11 @@ Let's begin by creating your brty own README.md for Assignment 1 ("A1").
     <img src="../img/atom-new-readme-4.jpg" alt="Toggled command palette" />
   </div>
   <div class="tab-pane fade" id="step5">
-    <p>In the input line, start typing “preview” until “Markdown Preview: Toggle” is seen. Select this option by clicking it or pressing return. This will show you the rendered version of the markdown code.</p>
+    <p>Step 5: In the input line, start typing “preview” until “Markdown Preview: Toggle” is seen. Select this option by clicking it or pressing return. This will show you the rendered version of the markdown code.</p>
     <img src="../img/atom-new-readme-5.jpg" alt="Using the markdown preview" />
   </div>
   <div class="tab-pane fade" id="step6">
-    <p>You should now see your file and rendered preview. Now you can begin your homework!</p>
+    <p>Step 6: You should now see your file and rendered preview. Now you can begin your homework!</p>
     <img src="../img/atom-new-readme-6.jpg" alt="Markdown preview" />
   </div>
 </div>

@@ -1,14 +1,36 @@
 ---
-title: About the Index.html
+title: Horizontal Rules
 module: topic-03
-permalink: /docs/topic-03/about-index/
+permalink: /docs/topic-03/horizontal-rules/
 redirect_from: /docs/topic-03/25-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-Almost every website you encounter has a master file called the **index.** There can be multiple index files on a site, but at least one `index.html` is homepage of the site.
+A horizontal rule is a line that runs across the browser window. These can be used to visually differentiate content in a document.
 
-You are going to create a lot of files labeled `index.html`. When a URL is passed to a browser that does not specify a file, the browser automatically requests `index.html` from the host server.
+<div id="code-heading">HTML</div>
+```html
+<p>This is a paragraph element.</p>
+<hr />
+<p>This is a paragraph element.</p>
+```
 
-Essentially, this means something like `http://baseurl.com` and `http://baseurl.com/index.html` are the _same_. (This is not true for all websites, but for many.)
+<br />
+
+Compare this to Markdown:
+<div id="code-heading">markdown</div>
+```markdown
+This is a paragraph.
+
+---
+
+This is another paragraph.
+```
+
+<br />
+
+Horizontal rules cleanly create boundaries between content, and span the width of the page (or browser, if full width).
+
+<p data-height="400" data-theme-id="30567" data-slug-hash="eEomzb" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-02: Paragraph Element Pt. 3" class="codepen"></p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

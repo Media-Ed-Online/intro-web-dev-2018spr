@@ -189,22 +189,36 @@ topic-03:
     - basic-paragraphs
     - line-breaks
     - preformatted
-    - horizontal-rules
     - todo-paragraphs-intro
 
-  - title: 07. Index.html Files
+  - title: 07. Empty elements
+    docs:
+    - line-breaks-2
+    - horizontal-rules
+    - intro-img-element
+    - todo-empty
+
+  - title: 08. Index.html Files
     docs:
     - about-index
     - file-v-direct-urls
+    - basic-linking
     - todo-index
 
-  - title: 08. Going Live
+  - title: 09. Developing an INDEX
+    docs:
+    - index-part-1
+    - index-part-2
+    - index-part-3
+    - index-part-4
+
+  - title: 10. Going Live
     docs:
     - server-space
     - gh-pages
     - going-live
 
-  - title: 09. Snooping
+  - title: 11. Snooping
     docs:
     - inspection
     - snooping
