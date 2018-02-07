@@ -10,7 +10,7 @@ redirect_from: /docs/topic-01/14-todo.md
     <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
-              <a href="https://atom.io/" class="list-group-item">
+              <a href="https://atom.io/" target="_blank" class="list-group-item">
                 <img src="../img/hw-icon-atom.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">Download and Install Atom</h4>
                   <hr>

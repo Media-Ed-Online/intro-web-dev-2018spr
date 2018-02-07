@@ -1,14 +1,13 @@
 ---
-title: Inspection and History
-module: topic-02
-permalink: /docs/topic-02/inspection/
-redirect_from: /docs/topic-02/21-page.md
+title: Line Breaks
+module: topic-03
+permalink: /docs/topic-03/line-breaks/
+redirect_from: /docs/topic-03/21-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-There is too much information for any one person to know right away in development and coding. Luckily though, developers tend to be a helpful group with many resources to assist those getting started, and a community that is willing to answer questions about problems.
+If you want to force a line break inside a paragraph, you can use the break tag. `<br />`
 
-If (when) you have been using the issues tab on the GitHub repo for this course, you will already recognize the importance of having a strong community to ask questions within.
-
-There are a number of additional resources that you should start to take advantage of, in addition to your classmates and instructors.
+<p data-height="600" data-theme-id="30567" data-slug-hash="ZJZYQq" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-02: Paragraph Element Pt. 2" class="codepen"></p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

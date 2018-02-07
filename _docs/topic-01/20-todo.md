@@ -10,7 +10,7 @@ redirect_from: /docs/topic-01/19-todo.md
   <div class="col-lg-4">
       <div class="bs-component">
         <div class="list-group">
-            <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" class="list-group-item">
+            <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank" class="list-group-item">
               <img src="../img/hw-icon-markdown.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                 <h4 class="list-group-item-heading">Markdown Cheatsheet</h4>
                 <hr>

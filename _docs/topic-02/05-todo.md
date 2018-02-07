@@ -10,7 +10,7 @@ redirect_from: /docs/topic-02/05-todo.md
     <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
-              <a href="https://doepud.co.uk/blog/anatomy-of-a-url" class="list-group-item">
+              <a href="https://doepud.co.uk/blog/anatomy-of-a-url" target="_blank"  class="list-group-item">
                 <img src="../img/hw-icon-anatomy-url.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">Anatomy of a URL</h4>
                   <hr>

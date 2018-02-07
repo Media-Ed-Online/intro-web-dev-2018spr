@@ -146,18 +146,74 @@ topic-02:
     - url-quiz
     - file-naming-quiz
 
+
 # TOPIC 03
 topic-03:
   - title: "\"Project 1: My First Webpage\""
     docs:
     - overview
 
-  - title: T3 Part 1
+  - title: 01. Browsers
     docs:
-    - pagename1
+    - intro-browsers
+    - browser-history
+    - browser-stats
+    - todo-browsers
 
-  - title: 07. Snooping
+  - title: 03. Beginning in HTML
+    docs:
+    - html-intro
+    - dom
+    - html-elements
+    - html-tags
+    - todo-intro-html
+
+  - title: 04. Main Document Elements
+    docs:
+    - doc-type
+    - root-element
+    - head-element
+    - body-element
+    - elements-review
+    - todo-structure-html
+
+  - title: 05. HTML Headings
+    docs:
+    - headings
+    - headings-rank
+    - todo-headings-intro
+
+  - title: 06. HTML Paragraphs
+    docs:
+    - empty-space
+    - basic-paragraphs
+    - line-breaks
+    - preformatted
+    - horizontal-rules
+    - todo-paragraphs-intro
+
+  - title: 07. Index.html Files
+    docs:
+    - about-index
+    - file-v-direct-urls
+    - todo-index
+
+  - title: 08. Going Live
+    docs:
+    - server-space
+    - gh-pages
+    - going-live
+
+  - title: 09. Snooping
     docs:
     - inspection
+    - snooping
     - wayback
-    - todo-Snooping
+    - todo-snooping
+
+  - title: Self-Assessment (Optional)
+    docs:
+    - drag-n-drop-structure
+    - html-h-quiz
+    - html-p-matching
+    - where-place-index

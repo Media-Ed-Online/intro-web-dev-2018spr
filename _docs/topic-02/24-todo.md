@@ -10,7 +10,7 @@ redirect_from: /docs/topic-02/24-todo.md
     <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
-              <a href="http://laptops.reviewed.com/content/how-to-take-a-screenshot-on-mac-and-pc" class="list-group-item">
+              <a href="http://laptops.reviewed.com/content/how-to-take-a-screenshot-on-mac-and-pc" target="_blank" class="list-group-item">
                 <img src="../img/hw-icon-screenshot.svg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">How-To Take Screenshots</h4>
                   <hr>

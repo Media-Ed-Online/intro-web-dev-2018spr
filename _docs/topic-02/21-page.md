@@ -13,6 +13,7 @@ As you now know, the internet is built foundationally on links and inter-connect
 
 You've done some linking in **markdown** already, using outside sources and _absolute_ URLs:
 
+<div id="code-heading">Markdown</div>
 ```markdown
 [discussion on URL types](https://media-ed-online.github.io/intro-web-dev/docs/topic-02/urls/)
 ```
@@ -21,9 +22,11 @@ You've done some linking in **markdown** already, using outside sources and _abs
 
 But I can also link to pages in this website using _relative_ URLs, as long as I stay within my  `/intro-web-dev` repository. As the administrator of this site, I can link to the same page like so:
 
+<div id="code-heading">Markdown</div>
 ```markdown
 [discussion on URL types](/docs/topic-02/urls/)
 ```
 
 <br />
+
 If within our _Intro-Web-Dev_ repo, I can use either of these methods to link back to the same page. But one is much more efficient for me to type, and doesn't require me to have pushed all of (or anything) to GitHub's servers yet.

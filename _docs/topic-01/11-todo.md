@@ -12,7 +12,7 @@ There are many types of text editors, each optimized for specific types of tasks
     <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
-              <a href="https://en.wikipedia.org/wiki/Text_editor#Typical_features" class="list-group-item">
+              <a href="https://en.wikipedia.org/wiki/Text_editor#Typical_features" target="_blank" class="list-group-item">
                 <img src="../img/hw-icon-wikipedia.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">Skim Typical Features</h4>
                   <hr>
@@ -24,7 +24,7 @@ There are many types of text editors, each optimized for specific types of tasks
     <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
-              <a href="{{ site.url }}/docs/topic-01/word-processors" class="list-group-item">
+              <a href="{{ site.url }}/docs/topic-01/word-processors" target="_blank" class="list-group-item">
                 <img src="../img/hw-icon-doc-file.svg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">Break the File?</h4>
                   <hr>

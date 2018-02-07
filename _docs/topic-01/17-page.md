@@ -17,6 +17,7 @@ This file type allows the writer to identify portions of the text as headers (at
 
 <br />
 
+<div id="code-heading">Markdown</div>
 ```markdown
 # Intro to Markdown
 
