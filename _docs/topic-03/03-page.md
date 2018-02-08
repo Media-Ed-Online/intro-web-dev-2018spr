@@ -11,3 +11,4 @@ As a web designer or developer, you should have access to multiple browsers to t
 
 <img src="../img/browser-usage-jan18.jpg" title="Browser usage up to Jan 2018" alt="graph of browser usage over a period of months" style="width: 100%;" />
 <p>Source: <a href="http://gs.statcounter.com/">StatCounter Global Stats - Browser Market Share</a></p>
+ 
