@@ -3,7 +3,7 @@ title: TODO
 todo: <i class="fa fa-check-square-o" aria-hidden="true"></i>
 module: topic-03
 permalink: /docs/topic-03/todo-snooping/
-redirect_from: /docs/topic-03/42-todo.md
+redirect_from: /docs/topic-03/43-todo.md
 ---
 
 <div class="row text-center">
