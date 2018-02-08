@@ -2,7 +2,7 @@
 title: File- vs Directory-Based URLs
 module: topic-03
 permalink: /docs/topic-03/file-v-direct-urls/
-redirect_from: /docs/topic-03/27-page.md
+redirect_from: /docs/topic-03/29-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />

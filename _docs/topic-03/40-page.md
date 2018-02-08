@@ -2,7 +2,7 @@
 title: Snooping on Others
 module: topic-03
 permalink: /docs/topic-03/snooping/
-redirect_from: /docs/topic-03/34-page.md
+redirect_from: /docs/topic-03/40-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />

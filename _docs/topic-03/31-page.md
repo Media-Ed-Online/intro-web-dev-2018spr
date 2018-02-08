@@ -1,20 +1,16 @@
 ---
-title: Creating a Website with GitHub Pages
+title: Part 2 - Adding Elements
 module: topic-03
-permalink: /docs/topic-03/gh-pages/
+permalink: /docs/topic-03/index-part-2/
 redirect_from: /docs/topic-03/31-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-GitHub.com provides free web hosting for static websites (a static site is one that does not involve server-side computational work beyond serving or delivering files to a requesting host-computer). For this course, this means we can utilize them as a our server, and they will also provide us with URLs!
+<span class="label label-warning">LOAD TIME:</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
 
-GitHub assigns each user the following URL:
-_username.github.io_
+Let's write some HTML code!
 
-This is your _baseurl_. You will "attach" paths to further child directories and files to the end of this basurl. For example, `https://JustineEvansUM.github.io/web-dev-hw/assignment-2/`
+## Adding Basic HTML Elements
 
-
-### What is GitHub Pages?
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allowfullscreen></iframe></div>
+<iframe src="https://h5p.org/h5p/embed/181834" width="1090" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>

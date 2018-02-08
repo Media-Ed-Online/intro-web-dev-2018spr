@@ -12,8 +12,10 @@ A horizontal rule is a line that runs across the browser window. These can be us
 <div id="code-heading">HTML</div>
 ```html
 <p>This is a paragraph element.</p>
+
 <hr />
-<p>This is a paragraph element.</p>
+
+<p>This is another paragraph element.</p>
 ```
 
 <br />
@@ -32,5 +34,5 @@ This is another paragraph.
 
 Horizontal rules cleanly create boundaries between content, and span the width of the page (or browser, if full width).
 
-<p data-height="400" data-theme-id="30567" data-slug-hash="eEomzb" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-02: Paragraph Element Pt. 3" class="codepen"></p>
+<p data-height="400" data-theme-id="30567" data-slug-hash="KQNypY" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-02: Paragraph Element Pt. 3" class="codepen"></p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
