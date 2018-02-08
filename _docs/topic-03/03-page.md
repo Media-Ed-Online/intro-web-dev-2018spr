@@ -12,7 +12,7 @@ redirect_from: /docs/topic-03/03-page.md
 As a web designer or developer, you should have access to multiple browsers to test how your site performs in different environments, and this includes computers versus mobile devices. Google's Chrome browser continues to be the most widely-used, but others still account for a large amount of users and should be included in your testing.
 
 <center>
-<div style="display:block; width: 100%; height: 500px;">
+<div style="display:block; width: 100%; height: 500px; margin: 100px 0;">
   <div id="all-browser-ww-monthly-201701-201801" width="600" height="400" style="width:600px; height: 400px;"></div>
   <!-- You may change the values of width and height above to resize the chart -->
   <p>Source: <a href="http://gs.statcounter.com/">StatCounter Global Stats - Browser Market Share</a></p>
