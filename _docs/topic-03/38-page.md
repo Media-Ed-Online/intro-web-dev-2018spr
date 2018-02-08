@@ -7,6 +7,8 @@ redirect_from: /docs/topic-03/38-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
+<span class="label label-warning">LOAD TIME:</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+
 In order for our repo to be served, we need to tell GitHub that this is a “GitHub pages project site."
 
 ## Making a Webpage with GitHub Pages
