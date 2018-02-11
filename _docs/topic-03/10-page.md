@@ -11,7 +11,7 @@ Everything is HTML is described through elements. This includes the larger struc
 
 <img src="../img/person-doc-think.png" alt="person thinking to themselves" title="Hmm..." style="width: 100px; float: right; margin: 0 0 5px 5px" />
 
-In this sub-topic, we'll build the basic structure of a _single_ page, going step-by-step through the standard page elements. It is worthwile to note that, usually, there is **only one set** of each of these elements per page, beginning with a `<!DOCTYPE>` declaration. We can even compare these elements to your _own_ very structure.
+In this sub-topic, we'll build the basic structure of a _single_ page, going step-by-step through the standard page elements. It is worthwhile to note that, usually, there is **only one set** of each of these elements per page, beginning with a `<!DOCTYPE>` declaration. We can even compare these elements to your _own_ very structure.
 
 ## `<!DOCTYPE>`
 
