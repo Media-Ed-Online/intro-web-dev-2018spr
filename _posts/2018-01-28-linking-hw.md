@@ -9,7 +9,8 @@ permalink: /posts/link-hw
   <style>
     /* INPUT AREA */
     p.sites {
-      margin: 20px 0;
+      margin: 50px 0;
+      display: inline;
     }
     .username {
         color: #E95420 !important;
@@ -21,14 +22,15 @@ permalink: /posts/link-hw
       display:inline-block;
     }
     .box {
-      border: 1 px #999;
       width: 100%;
     }
-    /* OUTPUT AREA */
-    #exampleSite1{
-
+    .copybox {
+      border-bottom: 1px solid #999;
+      display: inline-block;
+      margin-right: 1em;
     }
   </style>
+
   <!-- FORM -->
   <script type="text/javascript" charset="utf-8">
       function updateSiteurl(){
@@ -53,14 +55,30 @@ permalink: /posts/link-hw
       var copyCommandSupported = document.queryCommandSupported('copy');
       $('#featureDetectMsg').text('Copy command supported: ' + copyCommandSupported);
 
-      $('#copyButton').click(function() {
-        var preElement = $('#exampleSite1')[0];
-        copyToClipboard(preElement, showSuccessMsg);
+      $('#copyButton-prof').click(function() {
+        var preElement = $('#exampleSite-prof')[0];
+        copyToClipboard(preElement, showSuccessMsg1);
+      });
+      $('#copyButton-repo').click(function() {
+        var preElement = $('#exampleSite-repo')[0];
+        copyToClipboard(preElement, showSuccessMsg2);
+      });
+      $('#copyButton-site').click(function() {
+        var preElement = $('#exampleSite-site')[0];
+        copyToClipboard(preElement, showSuccessMsg3);
       });
 
-      function showSuccessMsg() {
-        $('#successMsg').finish().fadeIn(30).fadeOut(1000);
+      function showSuccessMsg1() {
+        $('#successMsg1').finish().fadeIn(30).fadeOut(1000);
       }
+      function showSuccessMsg2() {
+        $('#successMsg2').finish().fadeIn(30).fadeOut(1000);
+      }
+
+      function showSuccessMsg3() {
+        $('#successMsg3').finish().fadeIn(30).fadeOut(1000);
+      }
+
 
       function copyToClipboard(element, successCallback) {
         selectText(element);
@@ -170,33 +188,34 @@ permalink: /posts/link-hw
             <h5 style="font-size: 18px;">There are several links associated with GitHub:</h5>
             <p class="sites">
               Your profile is:&nbsp;&nbsp;&nbsp;
-              <span id="exampleSite1" style="display: inline-block !important; width: auto;">
-              https://github.com/<output type="text" class="username" name="some_name" value="" id="Siteurl" onkeyup="updateSiteurl();"></output>/
-              </span>
+              <div class="copybox">
+                <span id="exampleSite-prof" style="display: inline-block !important; width: auto;">https://github.com/<output type="text" class="username" name="some_name" value="" id="Siteurl" onkeyup="updateSiteurl();"></output>/</span>
+              </div>
               <span>
-                <button type="button" id="copyButton">Copy</button>
-                <span id="successMsg" style="display:none;">Copied!</span>
+                <button type="button" id="copyButton-prof">Copy</button>
+                <span id="successMsg1" style="display:none;">Copied!</span>
               </span>
             </p>
 
             <p class="sites">
-              Your assignment's <b>repo</b> is&nbsp;&nbsp;&nbsp;
-              <span id="exampleSite2" style="display: inline-block !important; width: auto;">
-              https://github.com/<output type="text" class="username" name="some_name" value="" id="Siteurl2" onkeyup="updateSiteurl();"></output>/web-dev-hw/tree/master/<output type="text" class="assignment" name="some_name" value="" id="Assignurl" onkeyup="updateAssignurl();"></output>/
-              </span>
+              Your assignment's <b>repo</b> is:&nbsp;&nbsp;&nbsp;
+              <div class="copybox">
+                <span id="exampleSite-repo" style="display: inline-block !important; width: auto;">https://github.com/<output type="text" class="username" name="some_name" value="" id="Siteurl2" onkeyup="updateSiteurl();"></output>/web-dev-hw/tree/master/<output type="text" class="assignment" name="some_name" value="" id="Assignurl" onkeyup="updateAssignurl();"></output>/</span>
+              </div>
               <span>
-                <button type="button" id="copyButton">Copy</button>
-                <span id="successMsg" style="display:none;">Copied!</span>
+                <button type="button" id="copyButton-repo">Copy</button>
+                <span id="successMsg2" style="display:none;">Copied!</span>
               </span>
             </p>
 
             <p class="sites">
-              Your assignment's <b>live site</b> is&nbsp;&nbsp;&nbsp;
-              https://<output type="text" class="username" name="some_name" value="" id="Siteurl3" onkeyup="updateSiteurl();"></output>.github.io/web-dev-hw/<output type="text" class="assignment" name="some_name" value="" id="Assignurl2" onkeyup="updateAssignurl();"></output>/
-              </span>
+              Your assignment's <b>live site</b> is:&nbsp;&nbsp;&nbsp;
+              <div class="copybox">
+                <span id="exampleSite-site" style="display: inline-block !important; width: auto;">https://<output type="text" class="username" name="some_name" value="" id="Siteurl3" onkeyup="updateSiteurl();"></output>.github.io/web-dev-hw/<output type="text" class="assignment" name="some_name" value="" id="Assignurl2" onkeyup="updateAssignurl();"></output>/</span>
+              </div>
               <span>
-                <button type="button" id="copyButton">Copy</button>
-                <span id="successMsg" style="display:none;">Copied!</span>
+                <button type="button" id="copyButton-site">Copy</button>
+                <span id="successMsg3" style="display:none;">Copied!</span>
               </span>
             </p>
           </div>
