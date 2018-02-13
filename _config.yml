@@ -3,7 +3,6 @@ title: Intro to Web Design & Development
 email: justine.evans@umontana.edu
 description: >
   Course content for an introductory look at building for the web.
-
 # baseurl: "/intro-web-dev" # the subpath of your site, e.g. /blog/
 url: https://media-ed-online.github.io/intro-web-dev/ # the base hostname & protocol for your site
 git_address: https://github.com/Media-Ed-Online/intro-web-dev
@@ -43,6 +42,15 @@ defaults:
   values:
     layout: docs
     sectionid: docs
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: faq
+    sectionid: faq
     seo:
       type: "WebPage"
 

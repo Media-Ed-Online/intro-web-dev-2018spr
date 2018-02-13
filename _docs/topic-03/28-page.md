@@ -7,7 +7,7 @@ redirect_from: /docs/topic-03/28-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-Almost every website you encounter has a master file called the **index.** There can be multiple index files on a site, but at least one `index.html` is homepage of the site.
+Almost every website you encounter has a master file called the **index.** _There can be multiple index files on a site, but at least one index is the homepage of the site._
 
 You are going to create a lot of files labeled `index.html`. When a URL is passed to a browser that does not specify a file, the browser automatically requests `index.html` from the host server.
 

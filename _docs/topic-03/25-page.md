@@ -7,7 +7,7 @@ redirect_from: /docs/topic-03/25-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-A horizontal rule is a line that runs across the browser window. These can be used to visually differentiate content in a document.
+A **horizontal rule** is a line that runs across the browser window. These can be used to visually differentiate content in a document.
 
 <div id="code-heading">HTML</div>
 ```html

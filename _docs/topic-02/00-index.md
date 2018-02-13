@@ -5,7 +5,7 @@ permalink: /docs/topic-02/overview/
 redirect_from: /docs/topic-02/
 ---
 
-<img src="../img/workplace.svg" style="width: 150px; margin: auto;" >
+<img src="../img/intro-img-workspace.svg" style="width: 200px; margin: auto;" >
 
 ## 02: Your Dev Environment
 

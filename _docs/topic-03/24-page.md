@@ -7,7 +7,7 @@ redirect_from: /docs/topic-03/24-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-If you want more control over how the contents of a paragraph appear, you can force a line break inside a paragraph using the break tag. `<br />`
+If you want more control over how the contents of a paragraph appear, you can force a line break inside a paragraph using the **break** tag (`<br />`).
 
 
 <div id="code-heading">HTML</div>

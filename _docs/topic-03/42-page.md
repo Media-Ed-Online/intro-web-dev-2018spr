@@ -11,7 +11,7 @@ redirect_from: /docs/topic-03/42-page.md
 
 The Wayback Machine allows you to see what certain websites looked like at different points in history. This may not be the best resource for learning how to code a website, but it does allow you to get a sense for how a company may have viewed their brand over time, how the web used to look, or retrieve information from the past that is no longer live. It's also the coolest way to spend a Saturday night.
 
-The resource is the Internet Archives [Wayback Machine](https://archive.org). For example, lets look at [the history of www.umt.edu](http://web.archive.org/web/20170201194752*/http://www.umt.edu/).
+The resource is the Internet Archives [Wayback Machine](https://archive.org). For example, let's look at [the history of www.umt.edu](http://web.archive.org/web/20170201194752*/http://www.umt.edu/).
 
 <br />
 

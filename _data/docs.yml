@@ -12,6 +12,35 @@ examples:
     - font-awesome
     - bootstrap
 
+# TUTORIAL PAGE (INDEX)
+tuts:
+  - title: FAQ
+    docs:
+    - link-hw
+
+  - title: Project 1 Walkthrough
+    docs:
+    - p1-intro
+    - p1-part-1
+    - p1-part-2
+    - p1-part-3
+    - p1-part-4
+    - p1-part-5
+    - p1-part-6
+
+  - title: Project 2 Walkthrough
+    docs:
+    - p2-intro
+
+  - title: Project 3 Walkthrough
+    docs:
+    - p3-intro
+
+  - title: Project 4 Walkthrough
+    docs:
+    - p4-intro
+
+
 # INTRODUCTION
 introduction:
   - title: Getting Started
@@ -190,7 +219,7 @@ topic-03:
     - preformatted
     - todo-paragraphs-intro
 
-  - title: 07. Empty elements
+  - title: 07. Empty Elements
     docs:
     - empty-elements
     - line-breaks
@@ -228,3 +257,21 @@ topic-03:
     - html-h-quiz
     - html-p-matching
     - html-empty-quiz
+
+
+# TOPIC 04
+topic-04:
+  - title: "\"Intro to HTML\""
+    docs:
+    - overview
+
+  - title: 01. Comments in HTML
+    docs:
+    - leaving-messages
+    - html-comments
+    - todo-comments
+
+  - title: 02. What We Know
+    docs:
+    - main-elements-review
+    - tags-elements-review

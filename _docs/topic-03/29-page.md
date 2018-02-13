@@ -7,7 +7,7 @@ redirect_from: /docs/topic-03/29-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-There are serveral ways we can control how our `html` files are retrieved, and how they appear in the address bar of a web browser.
+There are several ways we can control how our `html` files are retrieved, and how they appear in the address bar of a web browser.
 
 Take the example file **about.html**. We can place it where it can be accessed:
 
@@ -32,7 +32,7 @@ Take the example file **about.html**. We can place it where it can be accessed:
       <img src="../img/directory-about-folder.jpg" style="float: right; width: 250px; margin: 0 0 5px 5px; border: none" />
       <p>However, if you wished to have a “cleaner” looking URL, you could create an additional child directory labeled <code>/about</code> and place an <code>index.html</code> within that directory. </p>
 
-      <p>The URL for this case would look like <code>baseurl.com/about/</code>. Notice how we do not use the <code>.html</code> and instead the URL ends with a directory slash.</p>
+      <p>The URL for this case would look like <code>baseurl.com/about/</code>. Notice how we do not add <code>index.html</code>; instead the URL ends with a directory slash.</p>
     </div>
   </div>
   <div class="tab-pane fade" id="step3">

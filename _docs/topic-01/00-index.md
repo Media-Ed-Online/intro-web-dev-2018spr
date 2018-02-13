@@ -5,7 +5,7 @@ permalink: /docs/topic-01/overview/
 redirect_from: /docs/topic-01/
 ---
 
-<img src="../img/settings.svg" style="width: 150px; margin: auto;" >
+<img src="../img/intro-img-settings.svg" style="width: 200px; margin: auto;" >
 
 ## 01: Intro to Development
 

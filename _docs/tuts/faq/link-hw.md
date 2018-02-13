@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "FAQ: Linking Homework"
-author: Justine
-permalink: /posts/link-hw
+title: How to Link Your Homework
+sectionid: faq
+layout: faq
+module: tuts
+permalink: /docs/tuts/link-hw/
 ---
 
 <head>
@@ -140,9 +141,6 @@ permalink: /posts/link-hw
     });
   </script>
 </head>
-
-
-<img src="{{ site.url }}/img/ask-question.gif" title="How do I...?" alt="offering help by reaching through the computer screen" style="width: 100%; max-width: 250px; margin: auto;" />
 
 
 <div class="row">

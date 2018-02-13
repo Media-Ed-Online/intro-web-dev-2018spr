@@ -44,6 +44,7 @@
                     <li class="navbar-link disabled"><a href="#">Finals</a></li>
                   </ul>
               </li>
+              <li {% if page.sectionid=='faq' %} class="active" {% endif %}><a href="{{ "/docs/tuts/overview/" | prepend: site.baseurl }}">FAQ<span style="text-transform: lowercase">s</span> & Walkthrough<span style="text-transform: lowercase">s</span></a></li>
             </ul>
             <div class="navbar-right">
                 <!--<form class="navbar-form navbar-left">

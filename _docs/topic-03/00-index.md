@@ -5,7 +5,7 @@ permalink: /docs/topic-03/overview/
 redirect_from: /docs/topic-03/
 ---
 
-<img src="../img/project-board-internetting.png" style="width: 250px; margin: auto;" >
+<img src="../img/intro-img-p1-internetting.svg" style="width: 250px; margin: auto;" >
 
 ## 03: Project 1: My First Webpage
 

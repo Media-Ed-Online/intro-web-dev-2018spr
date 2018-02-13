@@ -5,7 +5,7 @@ permalink: /docs/introduction/welcome/
 redirect_from: /docs/introduction/
 ---
 
-<img src="../img/browser.svg" style="width: 150px; margin: auto; /" >
+<img src="../img/intro-img-id-card.svg" style="width: 200px; margin: auto; /" >
 
 ## MART<sup> 341</sup><br />"Introduction to Web Design & Development"
 
