@@ -199,7 +199,7 @@ topic-03:
 
   - title: 04. Main Document Elements
     docs:
-    - doc-type
+    - doctype
     - root-element
     - head-element
     - body-element
@@ -271,7 +271,90 @@ topic-04:
     - html-comments
     - todo-comments
 
-  - title: 02. What We Know
+  - title: 02. Attributes
     docs:
-    - main-elements-review
-    - tags-elements-review
+    - elements-review
+    - tags-review
+    - attributes
+    - html-lang-attribute
+    - structure-review
+    - todo-structure
+
+  - title: 03. Declaring Doctype
+    docs:
+    - doctype
+    - doctype-past
+    - doctype-now
+    - todo-doctype
+
+  - title: 04. Head Elements
+    docs:
+    - head-elements
+    - head-meta
+    - head-viewport
+    - head-title
+    - head-link
+    - head-style
+    - todo-head
+
+  - title: 05. Body Elements
+    docs:
+    - body-elements
+    - structural-markup
+    - semantic-markup
+    - todo-body
+
+  - title: 06. Semantic Markup
+    docs:
+    - bold-strong
+    - italic-em
+    - sup-sub
+    - quotes
+    - abbr-acro
+    - citations
+    - definitions
+    - addresses
+    - ins-del
+    - strikethrough
+    - todo-semantics
+
+  - title: 07. Lists
+    docs:
+    - html-lists
+    - ordered-lists
+    - unordered-lists
+    - definition-lists
+    - nested-lists
+    - todo-lists
+
+  - title: 08. External Hyperlinks
+    docs:
+    - intro-ex-links
+    - href
+    - new-window
+    - links-to-others
+    - email-links
+    - todo-ex-links
+
+  - title: 09. Internal Hyperlinks
+    docs:
+    - intro-int-links
+    - page-to-page
+    - same-page
+    - naming-ids
+    - todo-int-links
+
+  - title: 10. Proper and Polite Code
+    docs:
+    - writing-code
+    - ordering
+    - burrito-tags
+    - indentation
+    - todo-writing-code
+
+  - title: Self-Assessment (Optional)
+    docs:
+    - head-form
+    - semantic-matching
+    - creating-lists
+    - creating-links

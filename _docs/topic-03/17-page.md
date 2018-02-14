@@ -11,7 +11,6 @@ redirect_from: /docs/topic-03/17-page.md
 
 By default, browsers will display headings with decreasing font size, although headings should instead be explicitly styled using CSS rules and definitions. This prevents any _un-expected_ rendering of the web document content.
 
-<br />
-
-<p data-height="400" data-theme-id="30567" data-slug-hash="ZJZEXa" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-02: HTML Headings" class="codepen"></p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+<div class="codepen-embed">
+  <p data-height="400" data-theme-id="30567" data-slug-hash="ZJZEXa" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-02: HTML Headings" class="codepen"></p>
+</div>

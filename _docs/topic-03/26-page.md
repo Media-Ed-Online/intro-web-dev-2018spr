@@ -28,5 +28,6 @@ Compare this to Markdown:
 
 At this stage in your development journey, you can get an image to embed very similar as you would in Markdown using the element `<img src="..." />`.
 
-<p data-height="400" data-theme-id="30567" data-slug-hash="MQbOdj" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-02: Paragraph Element Pt. 3" class="codepen"></p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+<div class="codepen-embed">
+  <p data-height="400" data-theme-id="30567" data-slug-hash="MQbOdj" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-02: Paragraph Element Pt. 3" class="codepen"></p>
+</div>

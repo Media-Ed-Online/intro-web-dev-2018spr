@@ -166,3 +166,8 @@ body {
     padding-bottom: 75%;
   }
 }
+
+.codepen-embed {
+  margin-top: ($line-height-computed * 1.75);
+  margin-bottom: ($line-height-computed * 1.75);
+}

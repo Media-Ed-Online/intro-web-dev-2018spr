@@ -32,5 +32,6 @@ By default, browsers will remove empty spaces from paragraph element blocks. Thi
 
 The following will both display as single line paragraphs after being rendered.
 
-<p data-height="400" data-theme-id="30567" data-slug-hash="qXwEbW" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-01: Paragraphs 1" class="codepen"></p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+<div class="codepen-embed">
+  <p data-height="400" data-theme-id="30567" data-slug-hash="qXwEbW" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-01: Paragraphs 1" class="codepen"></p>
+</div>

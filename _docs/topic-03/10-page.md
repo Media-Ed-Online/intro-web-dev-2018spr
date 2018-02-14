@@ -1,7 +1,7 @@
 ---
 title: Document Type
 module: topic-03
-permalink: /docs/topic-03/doc-type/
+permalink: /docs/topic-03/doctype/
 redirect_from: /docs/topic-03/10-page.md
 ---
 
