@@ -36,7 +36,9 @@ redirect_from: /docs/topic-04/03-todo.md
           <div class="list-group">
               <a href="{{ site.url }}/docs/topic-04/html-comments/" target="_blank" class="list-group-item">
                 <img src="../img/hw-icon-edit-file.svg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
-                  <h4 class="list-group-item-heading">Add a comment to Your <b>about.html</b> File!</h4>
+                  <h4 class="list-group-item-heading">Add a Comment</h4>
+                  <hr>
+                  <p class="list-group-item-text">In your <b>about.html</b> file, add a note or comment-out a line.</p>
                   <hr>
                   <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 1 minute activity</p>
               </a>

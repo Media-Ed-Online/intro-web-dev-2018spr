@@ -358,3 +358,32 @@ topic-04:
     - semantic-matching
     - creating-lists
     - creating-links
+
+
+# TOPIC 05
+topic-05:
+  - title: "\"Figures and Forms\""
+    docs:
+    - overview
+
+  - title: Images
+    docs:
+    - image-tag
+    - image-src
+    - image-alt
+    - image-title
+    - image-size
+    - image-element
+    - todo-images
+
+  - title: Proper and Polite Code
+    docs:
+
+  - title: Proper and Polite Code
+    docs:
+
+  - title: Proper and Polite Code
+    docs:
+
+  - title: Proper and Polite Code
+    docs:

@@ -22,7 +22,7 @@ _Remember?_ The most basic of structured documents should include tags identifyi
 
 You are already familiar with headings, paragraphs, and breaks.
 
-**Headings** are defined with the `<h1>` to `<h6>` tags, where `<h1>` defines the most important heading and `<h6>` defines the least important heading. `<h1` headings are considered to be _Main Headings_. While, `<h2>` headings are usually considered _sub-headings_ and so forth through `<h6>`.
+**Headings** are defined with the `<h1>` to `<h6>` tags, where `<h1>` defines the most important heading and `<h6>` defines the least important heading. `<h1>` headings are considered to be _Main Headings_, while `<h2>` headings are usually considered _sub-headings_ and so forth through `<h6>`.
 
 Any text between the **paragraph** tags `<p>...</p>` belongs to the same paragraph. Almost all non-heading text will be placed within a paragraph element in a web document.
 

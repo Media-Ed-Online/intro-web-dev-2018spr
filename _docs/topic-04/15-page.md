@@ -10,7 +10,10 @@ redirect_from: /docs/topic-04/15-page.md
 The **META element** lives inside the head element and contains information about that webpage.
 It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time-sensitive.
 
-The meta element is an empty element, like the link element above. The most common attributes are 'name' and 'content'. These attributes are often used together and specify the properties of the entire page. The value of the name attribute is the property you are setting, and the value of the content attribute is the value that you want to give to this property.
+The meta element is an _empty element_, like the upcoming link element. The most common attributes are 'name' and 'content'. These attributes are often used together and specify the properties of the entire page:
+
+1. The value of the name attribute is the property you are setting.
+2. The value of the content attribute is the value that you want to give to this property.
 
 For example, on the second meta line below, the name attribute indicates an intention to specify a description for the page. The content attribute is where this description is actually specified.
 The value of the name attribute can be anything you want it to be.

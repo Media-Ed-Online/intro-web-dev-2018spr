@@ -171,3 +171,10 @@ body {
   margin-top: ($line-height-computed * 1.75);
   margin-bottom: ($line-height-computed * 1.75);
 }
+
+// Rows with Images
+.container-row {
+  margin: 0;
+  display: inline-block;
+  width: 100%;
+}

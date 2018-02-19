@@ -13,7 +13,9 @@ The _title_ tag defines the title of a document. This action:
 - provides a title for the page when it is added to favorites.
 - displays a title for the page in search-engine results.
 
-You cannot have more than one title element. However, you _must_ have the title element for the document to validate as HTML. **This is the only required element in the head.**
+You cannot have more than one title element. However, you _must_ have the title element for the document to validate as HTML.
+
+<span class="label label-danger">IMPORTANT:</span> **This is the only required element in the head.**
 
 _Remember?_ The _title_ tag aptly contains your site's or page's title.
 

@@ -7,7 +7,9 @@ redirect_from: /docs/topic-04/16-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-HTML5 introduced a method to let web designers take control over the viewport, through the `<meta>` tag.
+<img src="../img/meta-viewport.png" alt="two screens, one with viewport set" style="width: 250px; margin: auto;" />
+
+The rise of mobile devices changed how we view and build for the web. HTML5 introduced a method to let web designers take control over the viewport, through the `<meta>` tag.
 
 The viewport is the user's visible area of a web page. It varies with the device, and will be smaller on a mobile phone than on a computer screen.
 
@@ -24,7 +26,7 @@ The `width=device-width` part sets the width of the page to follow the screen-wi
 
 The `initial-scale=1.0` part sets the initial zoom level when the page is first loaded by the browser.
 
-We will discuss this property more when _Responsive Web Design_ is introduced. In the mean time, include this in your head elements so that your pages display more appropriately on mobile browsers.
+We will discuss this property more when _Responsive Web Design_ is introduced. In the meantime, include this in your head elements so that your pages display more appropriately on mobile browsers.
 
 <div id="code-heading">HTML</div>
 ```html

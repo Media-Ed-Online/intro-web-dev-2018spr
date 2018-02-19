@@ -15,7 +15,7 @@ Skim W3School's HTML5 Style Guide for proof that you can have "very bad" code th
               <img src="../img/hw-icon-w3schools.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                 <h4 class="list-group-item-heading">HTML Style Guide</h4>
                 <hr>
-                <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 8 minute activity</p>
+                <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 4 minute read</p>
             </a>
         </div>
       </div>

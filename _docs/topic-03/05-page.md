@@ -7,7 +7,7 @@ redirect_from: /docs/topic-03/05-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-<div class="row ">
+<div class="container-row">
   <img src="../img/berners-lee.png" alt="Tim Berners-Lee" style="float: right; width: 250px; margin-top: 0;" />
 
   <p>Let's just touch on using HTML or the <b>HyperText Markup Language.</b></p>
