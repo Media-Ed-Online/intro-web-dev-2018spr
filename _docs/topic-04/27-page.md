@@ -7,11 +7,11 @@ redirect_from: /docs/topic-04/27-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-The **superscript** ( `<sup>...</sup>` ) & **subscript** ( `<sub>...</sub>` ) elements are used to raise or lower text relative to normal text.
+The **superscript** ( `<sup>...</sup>` ) and **subscript** ( `<sub>...</sub>` ) elements are used to raise or lower text relative to normal text.
 
 The superscript element is used to denote characters that should appear as 'superscript', such as date suffixes or mathematical powers.
 
-The subscript element is commonly used with footnotes or chemical and mathmatical formulas, especially regarding fractions such as <sup>1</sup>/<sub>3</sub>.
+The subscript element is commonly used with footnotes or chemical and mathematical formulas, especially regarding fractions such as <sup>1</sup>/<sub>3</sub>.
 
 <div id="code-heading">HTML</div>
 ```html

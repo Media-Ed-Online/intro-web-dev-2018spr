@@ -7,7 +7,7 @@ redirect_from: /docs/topic-04/37-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-**Ordered lists** are those where each entry is prepend with an ascending identifier such as numbers, letters, or roman numerals.
+**Ordered lists** are those where each entry is prepend with an ascending identifier such as numbers, letters, or Roman numerals.
 
 <table style="width: 75%; margin: auto;">
 <tbody>
