@@ -251,12 +251,12 @@ topic-03:
     - wayback
     - todo-snooping
 
-  - title: Self-Assessment (Optional)
-    docs:
-    - drag-n-drop-structure
-    - html-h-quiz
-    - html-p-matching
-    - html-empty-quiz
+  #- title: Self-Assessment (Optional)
+    #docs:
+    #- drag-n-drop-structure
+    #- html-h-quiz
+    #- html-p-matching
+    #- html-empty-quiz
 
 
 # TOPIC 04
@@ -352,12 +352,12 @@ topic-04:
     - indentation
     - todo-writing-code
 
-  - title: Self-Assessment (Optional)
-    docs:
-    - head-form
-    - semantic-matching
-    - creating-lists
-    - creating-links
+  #- title: Self-Assessment (Optional)
+    #docs:
+    #- head-form
+    #- semantic-matching
+    #- creating-lists
+    #- creating-links
 
 
 # TOPIC 05
