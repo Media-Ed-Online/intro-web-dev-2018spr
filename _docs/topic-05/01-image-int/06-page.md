@@ -2,7 +2,7 @@
 title: Width and Height
 module: topic-05
 permalink: /docs/topic-05/img-size/
-redirect_from: /docs/topic-05/06-page.md
+redirect_from: /docs/topic-05/01-image-int/06-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />

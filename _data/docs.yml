@@ -366,7 +366,7 @@ topic-05:
     docs:
     - overview
 
-  - title: Image Integration
+  - title: 01. Image Integration
     docs:
     - img-about
     - img-tag
@@ -378,13 +378,13 @@ topic-05:
     - img-html5
     - todo-img-int
 
-  - title: Image Management
+  - title: 02. Image Management
     docs:
     - img-mgmnt
     - img-save
     - todo-img-mgmnt
 
-  - title: Table Structure
+  - title: 03. Table Structure
     docs:
     - table-about
     - table-structure
@@ -394,15 +394,34 @@ topic-05:
     - table-element
     - todo-table-structure
 
-  - title: Table Styling
+  - title: 04. Table Styling
     docs:
     - table-style
     - table-borders
     - table-padding
     - todo-table-styling
 
-  - title: Intro to Forms
+  - title: 05. Intro to Forms
+    docs:
+    - form-about
+    - form-tag
+    - form-action
+    - form-method
+    - form-id-class
+    - form-element
+    - todo-forms
+
+  - title: 06. Form Input Elements
     docs:
 
-  - title: Elements for Collecting Data
+  - title: 07. Text Types
+    docs:
+
+  - title: 08. Selection Types
+    docs:
+
+  - title: 09. Button Types
+    docs:
+
+  - title: 10. Form Management
     docs:
