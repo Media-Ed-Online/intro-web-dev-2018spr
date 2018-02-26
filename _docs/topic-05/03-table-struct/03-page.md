@@ -2,7 +2,7 @@
 title: Rows
 module: topic-05
 permalink: /docs/topic-05/table-rows/
-redirect_from: /docs/topic-05/15-page.md
+redirect_from: /docs/topic-05/03-table-struct/03-page.md
 ---
 
 <style>

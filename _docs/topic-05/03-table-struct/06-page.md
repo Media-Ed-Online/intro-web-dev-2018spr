@@ -2,7 +2,7 @@
 title: The &lt;table&gt; Element
 module: topic-05
 permalink: /docs/topic-05/table-element/
-redirect_from: /docs/topic-05/18-page.md
+redirect_from: /docs/topic-05/03-table-struct/06-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />

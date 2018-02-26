@@ -2,7 +2,7 @@
 title: Borders
 module: topic-05
 permalink: /docs/topic-05/table-borders/
-redirect_from: /docs/topic-05/21-page.md
+redirect_from: /docs/topic-05/04-table-style/02-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />

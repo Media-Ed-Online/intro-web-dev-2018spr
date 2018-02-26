@@ -2,7 +2,7 @@
 title: Tables in HTML
 module: topic-05
 permalink: /docs/topic-05/table-about/
-redirect_from: /docs/topic-05/13-page.md
+redirect_from: /docs/topic-05/03-table-struct/01-page.md
 ---
 
 <style>

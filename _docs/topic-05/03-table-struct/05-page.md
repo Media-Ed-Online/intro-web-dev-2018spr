@@ -2,7 +2,7 @@
 title: Headings
 module: topic-05
 permalink: /docs/topic-05/table-headings/
-redirect_from: /docs/topic-05/17-page.md
+redirect_from: /docs/topic-05/03-table-struct/05-page.md
 ---
 
 <style>

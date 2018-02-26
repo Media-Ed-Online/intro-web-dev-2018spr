@@ -3,7 +3,7 @@ title: TODO
 todo: <i class="fa fa-check-square-o" aria-hidden="true"></i>
 module: topic-05
 permalink: /docs/topic-05/todo-table-styling/
-redirect_from: /docs/topic-05/23-todo.md
+redirect_from: /docs/topic-05/04-table-style/04-todo.md
 ---
 
 <div class="row text-center">

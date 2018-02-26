@@ -2,7 +2,7 @@
 title: Cells
 module: topic-05
 permalink: /docs/topic-05/table-cells/
-redirect_from: /docs/topic-05/16-page.md
+redirect_from: /docs/topic-05/03-table-struct/04-page.md
 ---
 
 <style>
