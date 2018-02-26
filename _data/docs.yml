@@ -366,21 +366,28 @@ topic-05:
     docs:
     - overview
 
-  - title: Images
+  - title: Image Integration
     docs:
-    - image-tag
-    - image-src
-    - image-alt
-    - image-title
-    - image-size
-    - image-element
-    - todo-images
+    - img-about
+    - img-tag
+    - img-src
+    - img-alt
+    - img-title
+    - img-size
+    - img-element
+    - img-html5
+    - todo-img-int
 
-  - title: Proper and Polite Code
+  - title: Image Management
     docs:
+    - img-mgmnt
+    - img-save
+    - todo-img-mgmnt
 
-  - title: Proper and Polite Code
+  - title: Tables
     docs:
+    - table-structure
+    - table-style
 
   - title: Proper and Polite Code
     docs:

@@ -5,7 +5,9 @@
 
 // Base class
 .panel {
-  margin-bottom: $line-height-computed;
+  /*margin-bottom: $line-height-computed;*/
+  /* Justine */ margin-top: ($line-height-computed * 1.75);
+  /* Justine */ margin-bottom: ($line-height-computed * 1.75);
   background-color: $panel-bg;
   border: 1px solid transparent;
   border-radius: $panel-border-radius;
