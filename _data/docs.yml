@@ -384,10 +384,22 @@ topic-05:
     - img-save
     - todo-img-mgmnt
 
-  - title: Tables
+  - title: Table Structure
     docs:
+    - table-about
     - table-structure
+    - table-rows
+    - table-cells
+    - table-headings
+    - table-element
+    - todo-table-structure
+
+  - title: Table Styling
+    docs:
     - table-style
+    - table-borders
+    - table-padding
+    - todo-table-styling
 
   - title: Intro to Forms
     docs:

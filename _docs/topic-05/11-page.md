@@ -17,7 +17,9 @@ To optimize images for the web, many image editors have a "Save for Web and Devi
 
 Here is the <a href="../img/dogs-in-field-original.jpeg" target="_blank">original dog image</a>, which clocks in at an _enormous_ 23.9 mB, and 5597px by 3148px. Watch how long that loads in another tab.
 
+<br/>
 <hr />
+<br />
 
 In contrast the one you see below was optimized for web, sized and cropped to 1000px x 500px. It's much more managble at 110 kB, and is hardly distinguishable from the original (at least on the web).
 
