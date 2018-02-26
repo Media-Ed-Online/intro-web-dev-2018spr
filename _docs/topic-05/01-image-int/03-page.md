@@ -7,8 +7,6 @@ redirect_from: /docs/topic-05/01-image-int/03-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-The first attribute that we will need to consider is `src=""`. Within the double quotes you will need to include a **URL source** to the location of the desired image.
-
 
 <div class="panel panel-success">
   <div class="progress" style="margin-bottom: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0;">
@@ -21,5 +19,7 @@ The first attribute that we will need to consider is `src=""`. Within the double
   </div>
 </div>
 
+
+The first attribute that we will need to consider is `src=""`. Within the double quotes you will need to include a **URL source** to the location of the desired image.
 
 This will typically be a **relative URL** to a file stored on the same server as the web page, but can also be an **absolute URL** to an image anywhere on the Internet.

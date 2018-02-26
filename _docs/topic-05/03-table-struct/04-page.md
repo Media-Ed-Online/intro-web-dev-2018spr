@@ -18,7 +18,6 @@ redirect_from: /docs/topic-05/03-table-struct/04-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-**Table cells** contain _table data_, which is represented using a `<td>...</td>` element.
 
 <div class="panel panel-success">
   <div class="progress" style="margin-bottom: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0;">
@@ -41,3 +40,6 @@ redirect_from: /docs/topic-05/03-table-struct/04-page.md
       <span style="color: #999">&lt;/table&gt;</span>
   </div>
 </div>
+
+
+**Table cells** contain _table data_, which is represented using a `<td>...</td>` element.

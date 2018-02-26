@@ -18,8 +18,6 @@ redirect_from: /docs/topic-05/03-table-struct/03-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-**Table rows** are created using the `<tr>...</tr>` element. Inside of a `<tr>` lives the individual cells (equal to the number of columns), each referenced using a set of `<td>` tags.
-
 
 <div class="panel panel-success">
   <div class="progress" style="margin-bottom: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0;">
@@ -42,3 +40,6 @@ redirect_from: /docs/topic-05/03-table-struct/03-page.md
       <span style="color: #999">&lt;/table&gt;</span>
   </div>
 </div>
+
+
+**Table rows** are created using the `<tr>...</tr>` element. Inside of a `<tr>` lives the individual cells (equal to the number of columns), each referenced using a set of `<td>` tags.

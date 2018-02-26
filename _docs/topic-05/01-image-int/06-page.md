@@ -7,10 +7,6 @@ redirect_from: /docs/topic-05/01-image-int/06-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-Another set of attributes you should add every time is `width=""` & `height=""`. The values passed to these attributes are a string with an integer, representing the **width and height** that the image is to be displayed at.
-
-In most situations, _the width and height of the image file should be the same width and height that you enter as attributes_ and want used in your web page. In the case that these differ, these attributes will scale the image file to the specified size passed to the attributes.
-
 
 <div class="panel panel-success">
   <div class="progress" style="margin-bottom: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0;">
@@ -23,5 +19,10 @@ In most situations, _the width and height of the image file should be the same w
   </div>
 </div>
 
+
+
+Another set of attributes you should add every time is `width=""` & `height=""`. The values passed to these attributes are a string with an integer, representing the **width and height** that the image is to be displayed at.
+
+In most situations, _the width and height of the image file should be the same width and height that you enter as attributes_ and want used in your web page. In the case that these differ, these attributes will scale the image file to the specified size passed to the attributes.
 
 Another reason for including these attributes is that the web browser uses these to reserve the correct amount of space for the image on the page when rendering, even in the case where the page is rendered before the image file is delivered to the browser. This means that the page will not have to ‘re-render’ to accommodate an image that loads after the rest of the page.

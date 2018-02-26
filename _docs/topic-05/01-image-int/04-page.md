@@ -7,8 +7,6 @@ redirect_from: /docs/topic-05/01-image-int/04-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-Proper style and accessibility standards dictate that you should always include the **alternative text attribute**. The key for this is simply `alt=""`. The value in the double quotes should describe the image. This description is used by screen readers for those who are visually impaired.
-
 
 <div class="panel panel-success">
   <div class="progress" style="margin-bottom: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0;">
@@ -21,6 +19,8 @@ Proper style and accessibility standards dictate that you should always include 
   </div>
 </div>
 
+
+Proper style and accessibility standards dictate that you should always include the **alternative text attribute**. The key for this is simply `alt=""`. The value in the double quotes should describe the image. This description is used by screen readers for those who are visually impaired.
 
 Therefore it is critical that you provide a detailed description, especially in the case where the image is necessary to understand the content of the page.
 

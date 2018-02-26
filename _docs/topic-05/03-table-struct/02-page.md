@@ -17,8 +17,6 @@ redirect_from: /docs/topic-05/03-table-struct/02-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-We declare a **table** using the `<table>...</table>` element. All the content of that table lives within those tags.
-
 
 <div class="panel panel-success">
   <div class="progress" style="margin-bottom: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0;">
@@ -41,3 +39,7 @@ We declare a **table** using the `<table>...</table>` element. All the content o
       <span style="color: #79AF33; font-weight: bold;">&lt;/table&gt;</span>
   </div>
 </div>
+
+
+
+We declare a **table** using the `<table>...</table>` element. All the content of that table lives within those tags.
