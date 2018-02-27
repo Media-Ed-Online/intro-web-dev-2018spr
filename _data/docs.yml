@@ -455,7 +455,17 @@ topic-05:
 
   - title: 09. Form Management
     docs:
+    - form-mgmnt
+    - form-labels-ids
+    - form-fieldsets-legends
+    - todo-form-mgmnt
 
   - title: 10. HTML5 Inclusions
     docs:
+    - html5-new
+    - html5-validation
+    - html5-date
+    - html5-email
+    - html5-search
     - html5-img
+    - todo-html5

@@ -1,5 +1,5 @@
 ---
-title: Selection Input
+title: Buttons
 module: topic-05
 permalink: /docs/topic-05/button-intro/
 redirect_from: /docs/topic-05/08-button-types/01-page.md

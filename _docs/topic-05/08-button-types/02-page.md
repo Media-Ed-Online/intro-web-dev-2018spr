@@ -1,5 +1,5 @@
 ---
-title: The File Upload Element
+title: The Upload Button
 module: topic-05
 permalink: /docs/topic-05/button-upload/
 redirect_from: /docs/topic-05/08-button-types/02-page.md

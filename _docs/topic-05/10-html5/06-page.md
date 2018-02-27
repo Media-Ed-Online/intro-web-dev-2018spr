@@ -2,7 +2,7 @@
 title: Figure and Figcaption
 module: topic-05
 permalink: /docs/topic-05/html5-img/
-redirect_from: /docs/topic-05/10-html5/08-page.md
+redirect_from: /docs/topic-05/10-html5/06-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
