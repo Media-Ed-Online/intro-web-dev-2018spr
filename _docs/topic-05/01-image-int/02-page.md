@@ -1,27 +1,26 @@
 ---
-title: The &lt;img&gt; Tag
+title: Saving for Web
 module: topic-05
-permalink: /docs/topic-05/img-tag/
-redirect_from: /docs/topic-05/01-image-int/02-page.md
+permalink: /docs/topic-05/img-save/
+redirect_from: /docs/topic-05/02-image-int/02-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
+Generally, images should be **less-than 1,000 kB** in size (under 1 megabyte).
 
-<div class="panel panel-success">
-  <div class="progress" style="margin-bottom: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0;">
-    <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="width: 15%">
-      <span class="sr-only">15% Complete (success)</span>
-    </div>
-  </div>
-  <div class="panel-body">
-    <p style="font-size: large; margin: 0;"><span style="color: #79AF33; font-weight: bold;"><img</span> <span style="color: #999">src="#" alt="..." title="..." width="..." height="..."</span> <span style="color: #79AF33; font-weight: bold;">/ ></span></p>
-  </div>
-</div>
+If you remember from your introductory design classes, creating and saving files for print is much different than for web. For example, printers print at _300 ppi_, but screens only need _72 ppi_ for proper resolution. The larger your files, the longer it will take your page to load. And no one likes a slow-loading page.
 
+To optimize images for the web, many image editors have a "Save for Web and Devices" or "Export As" in their save options. There, you can change image formats and sizes to try and get your files of an appropriate size.
 
-As stated in the introduction, the **image element** is a multi-part element comprised of several "commands" over how the image will render.
+<img src="../img/save-imgs-for-web.jpg" alt="Image of 'Save for Web' dialogue in Photoshop CC" title="Save for Web" width="1000" height="auto" style="border: none" />
 
-As with the break (`<br />`) and horizontal ruler (`<hr />`) elements, the image element is an _empty element_ that only requires a single tag. This tag is `<img />`.
+Here is the <a href="../img/dogs-in-field-original.jpeg" target="_blank">original dog image</a>, which clocks in at an _enormous_ 23.9 mB, and 5597px by 3148px. Watch how long that loads in another tab.
 
-As with hyperlinks, this element is reliant on _attributes_ within the tag to allow it to be useful. Visit the next pages to learn these attributes.
+<br/>
+<hr />
+<br />
+
+In contrast the one you see below was optimized for web, sized and cropped to 1000px x 500px. It's much more managble at 110 kB, and is hardly distinguishable from the original (at least on the web).
+
+<img src="../img/dogs-in-field.jpeg" alt="An image dogs laying in a field while the sun sets" title="Dogs in a Sunlit Field" width="1000px" height="auto" />

@@ -369,22 +369,22 @@ topic-05:
   - title: 01. Image Integration
     docs:
     - img-about
+    - img-save
     - img-tag
     - img-src
     - img-alt
     - img-title
     - img-size
     - img-element
-    - img-html5
     - todo-img-int
 
-  - title: 02. Image Management
-    docs:
-    - img-mgmnt
-    - img-save
-    - todo-img-mgmnt
+  #- title: 02. Image Management
+    #docs:
+    #- img-mgmnt
+    #- img-save
+    #- todo-img-mgmnt
 
-  - title: 03. Table Structure
+  - title: 02. Table Structure
     docs:
     - table-about
     - table-structure
@@ -394,14 +394,14 @@ topic-05:
     - table-element
     - todo-table-structure
 
-  - title: 04. Table Styling
+  - title: 03. Table Styling
     docs:
     - table-style
     - table-borders
     - table-padding
     - todo-table-styling
 
-  - title: 05. Intro to Forms
+  - title: 04. Intro to Forms
     docs:
     - form-about
     - form-tag
@@ -411,7 +411,7 @@ topic-05:
     - form-element
     - todo-form-intro
 
-  - title: 06. Form Input Elements
+  - title: 05. Form Input Elements
     docs:
     - input-about
     - input-tag
@@ -421,7 +421,7 @@ topic-05:
     - input-element
     - todo-form-input
 
-  - title: 07. Text Types
+  - title: 06. Text Types
     docs:
     - text-intro
     - text-plain
@@ -433,14 +433,28 @@ topic-05:
     - text-size
     - text-value
     - text-autofocus
-    - text-type-element
     - todo-text-type
 
-  - title: 08. Selection Types
+  - title: 07. Selection Types
+    docs:
+    - select-intro
+    - select-radio
+    - select-checkbox
+    - select-dropdown
+    - todo-select-type
+
+
+  - title: 08. Button Types
+    docs:
+    - button-intro
+    - button-upload
+    - button-submit
+    - button-hidden
+    - todo-button-type
+
+  - title: 09. Form Management
     docs:
 
-  - title: 09. Button Types
+  - title: 10. HTML5 Inclusions
     docs:
-
-  - title: 10. Form Management
-    docs:
+    - html5-img

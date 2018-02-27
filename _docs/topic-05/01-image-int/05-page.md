@@ -1,7 +1,7 @@
 ---
-title: Title
+title: Alt
 module: topic-05
-permalink: /docs/topic-05/img-title/
+permalink: /docs/topic-05/img-alt/
 redirect_from: /docs/topic-05/01-image-int/05-page.md
 ---
 
@@ -10,16 +10,19 @@ redirect_from: /docs/topic-05/01-image-int/05-page.md
 
 <div class="panel panel-success">
   <div class="progress" style="margin-bottom: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0;">
-    <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-      <span class="sr-only">60% Complete (success)</span>
+    <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+      <span class="sr-only">45% Complete (success)</span>
     </div>
   </div>
   <div class="panel-body">
-    <p style="font-size: large; margin: 0;"><span style="color: #999"><img src="#" alt="..."</span> <span style="color: #79AF33; font-weight: bold;">title="..."</span> <span style="color: #999">width="..." height="..." /></span></p>
+    <p style="font-size: large; margin: 0;"><span style="color: #999"><img src="#"</span> <span style="color: #79AF33; font-weight: bold;">alt="..."</span> <span style="color: #999">title="..." width="..." height="..." /></span></p>
   </div>
 </div>
 
 
-As with the alt text attribute, you should also get in the habit of always including a **title attribute**, which is `title=""`. Most browsers will display this text as a tooltip when a user hovers their mouse over am image with the included attribute.
+Proper style and accessibility standards dictate that you should always include the **alternative text attribute**. The key for this is simply `alt=""`. The value in the double quotes should describe the image. This description is used by screen readers for those who are visually impaired.
 
-<span class="label label-danger">IMPORTANT:</span> The alt and/or title attributes will also be used by some browsers in the case where the image itself cannot load.
+Therefore it is critical that you provide a detailed description, especially in the case where the image is necessary to understand the content of the page.
+
+- Poor: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt="Me getting help."`
+- Better: &nbsp;`alt="Justine receiving help from an instructor while at a computer."`
