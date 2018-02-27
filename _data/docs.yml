@@ -449,7 +449,8 @@ topic-05:
     - button-intro
     - button-upload
     - button-submit
-    - button-hidden
+    - button-image
+    - button-element
     - todo-button-type
 
   - title: 09. Form Management
