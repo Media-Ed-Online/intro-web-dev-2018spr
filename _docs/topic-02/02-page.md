@@ -16,5 +16,5 @@ redirect_from: /docs/topic-02/02-page.md
 ### The Internet: IP Addresses & DNS
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5o8CwafCxnU" frameborder="0" allowfullscreen></iframe></div>
 
-### The Internet: HTTP & HTML
+<h3 id="tumblr">The Internet: HTTP & HTML</h3>
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kBXQZMmiA4s" frameborder="0" allowfullscreen></iframe></div>
