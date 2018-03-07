@@ -469,3 +469,107 @@ topic-05:
     - html5-search
     - html5-img
     - todo-html5
+
+
+# TOPIC 06
+topic-06:
+  - title: "\"Managing Media\""
+    docs:
+    - overview
+
+  - title: 01. The id Attribute
+    docs:
+    - id-clarity
+    - id-style
+    - todo-id
+
+  - title: 02. The Class Attribute
+    docs:
+    - class-clarity
+    - class-style
+    - todo-class
+
+  - title: 03. The Div Element
+    docs:
+    - div-element
+    - div-style
+    - todo-div
+
+  - title: 04. The Span Element
+    docs:
+    - span-element
+    - span-style
+    - todo-span
+
+  - title: 05. Iframes
+    docs:
+    - iframes-about
+    - iframes-tags
+    - iframes-src
+    - iframes-size
+    - iframes-seamless
+    - iframes-element-sites
+    - iframes-element-maps
+    - iframes-element-media
+    - todo-iframes
+
+  - title: 06. The Meta Element
+    docs:
+    - meta-about
+    - meta-names
+    - meta-charset
+    - meta-desc
+    - meta-auth
+    - meta-keywords
+    - meta-robots
+    - meta-view
+    - todo-meta
+
+  - title: 07. Escape Characters
+    docs:
+    - esc-about
+    - esc-codes
+    - esc-names
+    - esc-common
+    - todo-esc
+
+  - title: 08. Media Management
+    docs:
+    - media-about
+    - media-storage
+    - media-src-video
+    - media-src-audio
+    - media-embedding
+    - media-hosting
+    - media-decisions
+    - todo-media-mgmnt
+
+  - title: 09. Adding Video to Pages
+    docs:
+    - video-HTML5
+    - video-tags
+    - video-src
+    - video-poster
+    - video-size
+    - video-other-att
+    - video-formats
+    - video-multi-tag
+    - video-multi-src
+    - video-multi-type
+    - video-element
+    - video-hosting
+    - todo-video
+
+
+  - title: 10. Adding Audio to Pages
+    docs:
+    - audio-HTML5
+    - audio-tags
+    - audio-src
+    - audio-other-att
+    - audio-formats
+    - audio-multi-tag
+    - audio-multi-src
+    - audio-element
+    - audio-hosting
+    - todo-audio
