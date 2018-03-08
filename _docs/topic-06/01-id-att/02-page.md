@@ -23,14 +23,14 @@ In HTML, the following style guide and naming conventions should be used for ID'
 <div id="code-heading">HTML</div>
 ```html
 <!-- Recommended: -->
-<div id="use-double-quotations">...</div>
-<div id="contact">...</div>
-<div id="image-gallery-1">...</div>
+<div id="use-double-quotations">
+<div id="contact">
+<div id="image-gallery-1">
 
 <!-- Bad Style: -->
-<div id='do-not-use-single-quotations'>...</div>
-<div id='paragraph4'>...</div>
-<div id='Image_Gallery-1!'>...</div>
+<div id='do-not-use-single-quotations'>
+<div id='paragraph4'>
+<div id='Image_Gallery-1!'>
 ```
 
 <span class="label label-info">NOTE:</span> You should use ID names that are as short as possible, but as long as necessary. The goal is to clearly convey what the element is without being unnecessarily verbose.
