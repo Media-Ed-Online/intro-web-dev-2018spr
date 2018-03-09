@@ -13,4 +13,4 @@ From this work came two new elements, the `<video>` and `<audio>` elements. As t
 
 As with all stages in web design, it is important to keep a well-organized media directory. And as HTML5 is still in development and being accepted by browsers, we need to provide text or fallback files should the intended media files or elements not be accessible.
 
-**NOTE:** GitHub has a repo limit of **20 megabytes**, which is pretty small when thinking about audio and video. The next few pages list some options for finding smaller audio/video files to use.
+<span class="label label-info">NOTE:</span> GitHub has a repo limit of **20 megabytes**, which is pretty small when thinking about audio and video. The next few pages list some options for finding smaller audio/video files to use.

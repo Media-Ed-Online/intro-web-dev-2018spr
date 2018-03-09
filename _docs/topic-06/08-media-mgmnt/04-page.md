@@ -13,8 +13,13 @@ A personal favorite for music is through [Incompetech.com](https://incompetech.c
 
 Again, any audio you use should be your own or in "fair public use," usually under [Creative Commons](https://creativecommons.org/) (CC) public licence. **You should always credit the author when asked to do so.**
 
-Test your pages on multiple computers and browsers to make sure the embedded media works.
+<span class="label label-danger">IMPORTANT:</span> Test your pages on multiple computers and browsers to make sure the embedded media works.
 
-##### Converting Files
 
-You likely will not have access to the original file to export an .ogg file, whether it's a song you own or have recently sources. You may need to use an online converter like [Convertio](https://convertio.co/mp3-ogg/) or [Zamzar](http://www.zamzar.com/convert/mp3-to-ogg/) to provide a .ogg file. Again, this is only a band-aide; ideally, you're providing your own created audio (music, recordings, sound effects, etc) which you can export as an .ogg legally.
+### How-To Audio:
+
+One of the potential issues of using the `<audio>` element in particular is that it allows end-users to easily download the audio file. For example, in Safari, this can be done by right-clicking the audio player and selecting "Download Audio." Chrome actually provides a download button with the audio player.
+
+<center><img src="../img/safari-dl-audio.jpg" title="How to download audio in Safari" width="400" style="border: 0" /></center>
+
+This ability is something to weigh when considering _content protection_, discussed at the end of this section.
