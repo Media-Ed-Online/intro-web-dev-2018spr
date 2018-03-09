@@ -10,7 +10,7 @@ redirect_from: /docs/topic-06/05-iframes/08-page.md
 The other common use of the embeddable iframe element is to include media players in your site, such as YouTube, Vimeo, SoundCloud, or Bandcamp.
 
 ```html
-<!-- YouTube Example form UM's own Dr. Michael Musick -->
+<!-- YouTube Example from UM's own Dr. Michael Musick -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-0wEUKJTHnQ" frameborder="0" allowfullscreen></iframe>
 ```
 

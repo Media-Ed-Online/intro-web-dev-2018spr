@@ -1,5 +1,5 @@
 ---
-title: Formats
+title: Formats and Browser Support
 module: topic-06
 permalink: /docs/topic-06/video-formats/
 redirect_from: /docs/topic-06/09-video/07-page.md
