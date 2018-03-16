@@ -572,3 +572,34 @@ topic-06:
     - audio-element
     - audio-hosting
     - todo-audio
+
+
+# TOPIC 07
+topic-07:
+  - title: "\"Project 2: The Instructable\""
+    docs:
+    - overview
+
+  - title: 01. Review
+    docs:
+    - review
+    - todo-p2-review
+
+  - title: 02. Intro to Styling
+    docs:
+    - html-style
+    - html-style-declare
+    - html-style-bg
+    - html-style-text
+    - html-style-placement
+    - todo-html-style
+
+
+  - title: 03. Adding Basic Navigation
+    docs:
+    - basic-nav
+    - basic-nav-declare
+    - basic-nav-li
+    - basic-nav-directing
+    - basic-nav-styling
+    - todo-basic-nav
