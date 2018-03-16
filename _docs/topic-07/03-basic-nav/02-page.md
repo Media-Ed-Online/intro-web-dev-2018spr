@@ -17,7 +17,7 @@ Using the `<nav>` element is considered good practice because of its accessible 
 <body>
   <nav id="main-menu">
     <!-- Site Links -->
-  </div>
+  </nav>
 
   <!-- Further page content -->
 </body>

@@ -13,7 +13,7 @@ You can easily generate a pattern on your background by adding a small image (le
 
 A color fill can be created using the `background-color: ` property. If you are familiar with rgb and hexcode values, you can add them after the colon (`:`), but if not, you can using English CSS color names, such as "white", "orange", and "black". Check out the other color names on [W3Schools](https://www.w3schools.com/cssref/css_colors.asp).
 
-<span class="label label-info">NOTE:</span> Like you did when styling tables, you can add a pixel amount to the `padding: ` property within you chosen element. This can give cushion between the boundary of the container and the contents inside.
+<span class="label label-info">NOTE:</span> Like you did when styling tables, you can add a pixel amount to the `padding: ` property within your chosen element. This can give cushion between the boundary of the container and the contents inside.
 
 <span class="label label-info">NOTE:</span> Many structural elements can have background property values. If you have a busy page background, it is helpful to add a neutral background to a container (like a div) to keep your content legible and clean.
 
