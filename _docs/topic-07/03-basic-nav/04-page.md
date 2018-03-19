@@ -15,4 +15,4 @@ We've been discussing external and internal linking for several topics now, so t
   <p data-height="600" data-theme-id="30567" data-slug-hash="yKJEQX" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-07: Basic Navigation, Pt. 3" class="codepen"></p>
 </div>
 
-<span class="label label-info">NOTE:</span> It is considered good practice to include "back to top" options for the user, to avoid excessive scrolling and confusion. This can be done by using `#` as the [link's placeholder](https://www.w3.org/TR/html5/browsers.html#dom-location-hash), or creating an id at the page's beginning.
+<span class="label label-info">NOTE:</span> It is considered good practice to include "back to top" options for the user, to avoid excessive scrolling and confusion. This can be done by using `#` as the [source's placeholder](https://www.w3.org/TR/html5/browsers.html#dom-location-hash), or creating an id at the page's beginning.
