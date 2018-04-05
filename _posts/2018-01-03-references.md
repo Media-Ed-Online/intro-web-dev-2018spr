@@ -19,7 +19,7 @@ Additional material has been linked from or adapted from:
 - Textures <a href='https://www.freepik.com/free-vector/grunge-textures-collection_1080208.htm'>Designed by Freepik</a>.
 
 ### Design
-This site is adapted from ACan Güney Aksakalli's "[Jekyll Doc](https://github.com/aigarsdz/brume)" theme, MIT licence.
+This site is adapted from ACan Güney Aksakalli's "[Jekyll Doc](https://github.com/aksakalli/jekyll-doc-theme)" theme, MIT licence.
 
 Icons provided by:
 - <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>, licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
@@ -29,5 +29,6 @@ Icons provided by:
 Additional assets:
 - Animated Octocat (c) [Eli Fitch](https://codepen.io/elifitch/pen/YqrOWj)
 - Online Guide (c)  [PepCreations](http://www.pepcreations.com/solutions/studio-motion-animation/)
+- Topic-08: [Using Style Sheets](http://www.westciv.com/style_master/academy/css_tutorial/introduction/how_they_work.html)
 
 Course and site layout (c) [Justine Evans](mailto:justine.evans@umontana.edu), 2018.

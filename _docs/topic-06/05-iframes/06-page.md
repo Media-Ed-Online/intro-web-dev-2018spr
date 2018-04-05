@@ -19,6 +19,11 @@ Let's see how our own site looks in an iframe. You should see the "mobile versio
 <div class="codepen-embed">
   <iframe src="https://media-ed-online.github.io/intro-web-dev/" width="100%" height="500px"></iframe>
 </div>
+<p style="font-size: small; color: orange; margin-top: -30px">
+  <a href="https://media-ed-online.github.io/intro-web-dev/" target="_blank">
+    <cite>Introduction to Web Design and Development</cite>
+  </a>
+</p>
 
 
 ### How-To:

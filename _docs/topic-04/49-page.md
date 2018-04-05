@@ -16,7 +16,7 @@ Relative URL's help with building a site locally before pushing it to the web. T
   <p>Well, if a single "<code>.</code>" states that we need to remain in the current level of our directory heirarchy, two "<code>..</code>" is effectively saying <i>"to find this file, begin here and then step back a directory."</i></p>
 
   <p>Consider this example. We have a three-page site, with an <b>index.html</b> in the root directory, and two pages, <b>about.html</b> and <b>contact.html</b> in the child-directory <b>/pages</b>. I have a menu at the top of each page that needs to link to each of these pages despite what page the visitor is currently on. So how do I do this?</p>
-  </div>
+</div>
 
 Here are some ways you would link these files:
 - From Index to About: `<a href="./pages/about.html">To About</a>`

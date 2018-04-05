@@ -594,7 +594,6 @@ topic-07:
     - html-style-placement
     - todo-html-style
 
-
   - title: 03. Adding Basic Navigation
     docs:
     - basic-nav
@@ -603,3 +602,95 @@ topic-07:
     - basic-nav-directing
     - basic-nav-styling
     - todo-basic-nav
+
+
+# TOPIC 08
+topic-08:
+  - title: "\"Intro to CSS\""
+    docs:
+    - overview
+
+  - title: 01. The Anatomy of Style
+    docs:
+    - select-declare
+    - multi-selectors
+    - property-value
+    - knowing-css
+    - todo-anatomy
+
+  - title: 02. Style Guide
+    docs:
+    - where-style
+    - style-element
+    - style-attribute
+    - style-doc
+    - todo-guide
+
+
+  - title: 03. CSS Documents
+    docs:
+    - css-docs
+    - link-tag
+    - link-rel
+    - link-type
+    - link-href
+    - link-element
+    - todo-docs
+
+  - title: 04. CSS Applied
+    docs:
+    - css-comments
+    - understand-css
+    - apply-css
+    - todo-applied
+
+  - title: 05. Selector Types
+    docs:
+    - selectors-universal
+    - selectors-element
+    - selectors-class
+    - selectors-id
+    - todo-selectors
+
+  - title: 06. Chaining Selectors
+    docs:
+    - chain-direct
+    - chain-child
+    - chain-descendent
+    - chain-sib-adj
+    - chain-sib-gen
+    - todo-chaining
+
+  - title: 07. Cascading
+    docs:
+    - cascade-rules
+    - cascade-order
+    - cascade-specify
+    - cascade-important
+    - todo-cascade
+
+  - title: 08. Inheritance
+    docs:
+    - inherit-who
+    - inherit-what
+    - todo-inherit
+
+  - title: 09. Exploring Color
+    docs:
+    - specify-color
+    - color-name
+    - color-rgb
+    - color-hex
+    - saturated-color
+    - grayscale-color
+    - combining-color
+    - color-atom
+    - todo-exploring
+
+  - title: 10. Using Color
+    docs:
+    - bg-color
+    - text-color
+    - opacity
+    - more-color
+    - todo-using

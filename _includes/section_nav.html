@@ -323,6 +323,51 @@ next, lets build a link to it.
 {% endfor %}
 
 
+<!-- TOPIC-06 -->
+{% assign docs = site.data.docs['topic-06'] | map: 'docs' | join: ',' | split: ',' %}
+
+{% for document in docs %}
+  {% assign document_url = document | prepend:"/docs/topic-06/" | append:"/" %}
+  {% if document_url == page.url %}
+    <ul class="pager">
+      {% if forloop.first %}
+        <li class="previous disabled">
+          <a>
+            <span aria-hidden="true">&larr;</span> Previous
+          </a>
+        </li>
+      {% else %}
+        {% assign previous = forloop.index0 | minus: 1 %}
+        {% assign previous_page = docs[previous] | prepend:"/docs/topic-06/" | append:"/" %}
+        <li class="previous">
+          <a href="{{ previous_page | prepend: site.baseurl }}">
+            <span aria-hidden="true">&larr;</span> Previous
+          </a>
+        </li>
+      {% endif %}
+
+      {% if forloop.last %}
+        <li class="next disabled">
+          <a>
+            Next <span aria-hidden="true">&rarr;</span>
+          </a>
+        </li>
+      {% else %}
+        {% assign next = forloop.index0 | plus: 1 %}
+        {% assign next_page = docs[next] | prepend:"/docs/topic-06/" | append:"/" %}
+        <li class="next">
+          <a href="{{ next_page | prepend: site.baseurl }}">
+            Next <span aria-hidden="true">&rarr;</span>
+          </a>
+        </li>
+      {% endif %}
+    </div>
+    <div class="clear"></div>
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+
 <!-- TOPIC-07 -->
 {% assign docs = site.data.docs['topic-07'] | map: 'docs' | join: ',' | split: ',' %}
 
@@ -368,11 +413,11 @@ next, lets build a link to it.
 {% endfor %}
 
 
-<!-- TOPIC-06 -->
-{% assign docs = site.data.docs['topic-06'] | map: 'docs' | join: ',' | split: ',' %}
+<!-- TOPIC-08 -->
+{% assign docs = site.data.docs['topic-08'] | map: 'docs' | join: ',' | split: ',' %}
 
 {% for document in docs %}
-  {% assign document_url = document | prepend:"/docs/topic-06/" | append:"/" %}
+  {% assign document_url = document | prepend:"/docs/topic-08/" | append:"/" %}
   {% if document_url == page.url %}
     <ul class="pager">
       {% if forloop.first %}
@@ -383,7 +428,7 @@ next, lets build a link to it.
         </li>
       {% else %}
         {% assign previous = forloop.index0 | minus: 1 %}
-        {% assign previous_page = docs[previous] | prepend:"/docs/topic-06/" | append:"/" %}
+        {% assign previous_page = docs[previous] | prepend:"/docs/topic-08/" | append:"/" %}
         <li class="previous">
           <a href="{{ previous_page | prepend: site.baseurl }}">
             <span aria-hidden="true">&larr;</span> Previous
@@ -399,7 +444,7 @@ next, lets build a link to it.
         </li>
       {% else %}
         {% assign next = forloop.index0 | plus: 1 %}
-        {% assign next_page = docs[next] | prepend:"/docs/topic-06/" | append:"/" %}
+        {% assign next_page = docs[next] | prepend:"/docs/topic-08/" | append:"/" %}
         <li class="next">
           <a href="{{ next_page | prepend: site.baseurl }}">
             Next <span aria-hidden="true">&rarr;</span>
