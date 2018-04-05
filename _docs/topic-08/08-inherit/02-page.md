@@ -9,12 +9,12 @@ redirect_from: /docs/topic-08/08-inherit/02-page.md
 
 Not all properties will inherit their value from the parent element.
 
-Text properties tend to inherit values from their parents; however, some properties do not. As with many things in web development, this is partly browser specific.
+Text properties tend to inherit values from their parents; however, some properties do not. As with many things in web development, this is partly browser-specific.
 
 
 ### Forcing Inheritance
 
-If you are worried, or find a property that is not inheriting, you can for inheritance with the `inherit` keyword as the properties value.
+If you are worried, or find a property that is not inheriting, you can force inheritance with the `inherit` keyword as the properties value.
 
 
 <div class="codepen-embed">

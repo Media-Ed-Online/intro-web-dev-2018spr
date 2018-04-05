@@ -11,5 +11,5 @@ Use the tilda (`~`) sign to create a **general sibling** relationship between el
 
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="EwMKLr" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-07]  Chaining Selectors, Pt. 5" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="EwMKLr" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-07]  Chaining Selectors, Pt. 5" class="codepen"></p>
 </div>
