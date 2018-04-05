@@ -39,5 +39,5 @@ There easiest way to set the background color for a page is through the <code>&l
 When setting the background color of inner elements, you should do choose colors that encourage readability, and complement the main color schemes of the site.
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="ZXPeQW" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-07] Background Color" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="oqPyNJ" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-07] Background Color" class="codepen"></p>
 </div>
