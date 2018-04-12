@@ -692,5 +692,6 @@ topic-08:
     - bg-color
     - text-color
     - opacity
+    - intro-positioning
     - more-color
     - todo-using
