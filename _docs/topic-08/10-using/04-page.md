@@ -13,7 +13,7 @@ The position property (`position: `), as you may expect, allows developers to sp
 
 _Absolute positioning_ (`position: absolute`) sets elements absolutely, removing them from the normal flow (remember our discussion on [block-level](../../topic-06/div-element/) elements?). For our purposes, we can use absolute positioning and math to crudely "draw" on the page without having to do much page building.
 
-For example, I can create a "canvas" 100px by 100px wide, and color half using a rectangle half the size of the parent, and half its distance across:
+For example, I can create a "canvas" 100px by 100px wide, and color half using a rectangle half the size of the parent, and positioned halfway across its width:
 
 <div id="code-heading">HTML</div>
 ```html
@@ -45,7 +45,7 @@ For example, I can create a "canvas" 100px by 100px wide, and color half using a
 
 #### Example
 
-**Geometric Style:** The following example, I created a "canvas" 400px by 400px, with 3 main elements - the sun, rainbow, and clouds. All of these elements were positioned _absolutely_ to the **bottom** and **left** of the canvas' edges and the neighboring element.
+**Geometric Style:** The following example, I created a "canvas" 300px by 300px, with 3 main elements - the sun, rainbow, and clouds. Most of these elements were positioned _absolutely_ to the **bottom** and **left** of the canvas' edges and the neighboring element.
 
 
 <div class="codepen-embed">
