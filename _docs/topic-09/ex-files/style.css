@@ -1,0 +1,46 @@
+.size.heading-1 {
+  font-family: sans-serif;
+  font-size: 21px;
+}
+.size.heading-2 {
+  font-family: sans-serif;
+  font-size: 150%;
+}
+.size.heading-3 {
+  font-family: sans-serif;
+  font-size: 1.5em;
+}
+
+
+.weight.heading-1 {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 1.5em;
+}
+.weight.heading-2 {
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 1.5em;
+}
+.weight.heading-3 {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 1.5em;
+}
+
+
+.style.heading-1 {
+  font-family: 'Playfair';
+  font-style: normal;
+  font-size: 1.5em;
+}
+.style.heading-2 {
+  font-family: 'Playfair';
+  font-style: oblique;
+  font-size: 1.5em;
+}
+.style.heading-3 {
+  font-family: 'Playfair_Italic';
+  font-style: italic;
+  font-size: 1.5em;
+}
