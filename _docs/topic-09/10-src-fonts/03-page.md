@@ -30,6 +30,6 @@ redirect_from: /docs/topic-09/10-src-fonts/03-page.md
 
 Should you decide to host fonts from your own server, Google Fonts provides a download option for all their selections. You'll need to use the `@font-face` rule for each individual font you download.
 
-## Downloading Fonts
+## Option A: Downloading Fonts
 
 <iframe src="https://h5p.org/h5p/embed/227307" width="1090" height="947" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

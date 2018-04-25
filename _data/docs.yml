@@ -767,13 +767,13 @@ topic-09:
   - title: 09. Self-Hosted Fonts
     docs:
     - including-fonts
+    - font-directory
+    - font-stylesheet
     - font-face-selector
     - font-face-family
     - font-face-src
     - font-face-other
     - font-face-rule
-    - font-directory
-    - font-stylesheet
     - todo-font-face
 
   - title: 10. Library-Hosted Fonts

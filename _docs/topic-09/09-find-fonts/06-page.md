@@ -28,4 +28,4 @@ When selecting the font for use, the CSS specifies the `font-weight:` and `font-
   <p data-height="600" data-theme-id="30567" data-slug-hash="QOwrQd" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] External Fonts, Pt. 2 (STYLE.css)" class="codepen"></p>
 </div>
 
-Please continue to the next pages to see how this Pen was created and set-up in the directory.
+<!--Please continue to the next pages to see how this Pen was created and set-up in the directory.-->
