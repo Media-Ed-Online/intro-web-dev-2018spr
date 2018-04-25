@@ -695,3 +695,92 @@ topic-08:
     - intro-positioning
     - more-color
     - todo-using
+
+
+# TOPIC 09
+topic-09:
+  - title: "\"Typography\""
+    docs:
+    - overview
+
+  - title: 01. Typography
+    docs:
+    - intro-typography
+    - font-typefaces
+    - font-categories
+    - todo-typography
+
+  - title: 02. Using Fonts
+    docs:
+    - font-family
+    - font-fallbacks
+    - using-fonts
+    - todo-fonts
+
+  - title: 03. Sizing
+    docs:
+    - font-size
+    - fixed-size
+    - relative-size
+    - using-size
+    - todo-sizing
+
+  - title: 04. Adding Meaning
+    docs:
+    - bold-italic
+    - font-weight
+    - font-style
+    - using-weight-style
+    - todo-meaning
+
+  - title: 05. Decorating
+    docs:
+    - font-variant
+    - text-transform
+    - text-decoration
+    - todo-decor
+
+  - title: 06. Spacing
+    docs:
+    - intro-spacing
+    - leading
+    - kerning
+    - tracking
+    - word-spacing
+    - todo-spacing
+
+  - title: 07. Alignment
+    docs:
+    - hori-align
+    - vert-align
+    - text-indent
+    - todo-alignment
+
+  - title: 08. Pseudos
+    docs:
+    - pseudo-selectors
+    - pseudo-elements
+    - pseudo-classes
+    - pseudo-states
+    - todo-pseudos
+
+  - title: 09. Self-Hosted Fonts
+    docs:
+    - including-fonts
+    - font-face-selector
+    - font-face-family
+    - font-face-src
+    - font-face-other
+    - font-face-rule
+    - font-directory
+    - font-stylesheet
+    - todo-font-face
+
+  - title: 10. Library-Hosted Fonts
+    docs:
+    - sourcing-fonts
+    - google-fonts-part-1
+    - google-fonts-part-2
+    - google-fonts-part-3
+    - google-fonts-part-4
+    - todo-src-fonts

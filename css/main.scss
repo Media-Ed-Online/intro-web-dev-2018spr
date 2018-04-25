@@ -133,7 +133,6 @@ body {
 | Justine's Additions |
  --------------------*/
  // Embeds responsive
-//
 // Credit: Nicolas Gallagher and SUIT CSS.
 
 .embed-responsive {
@@ -177,4 +176,25 @@ body {
   margin: 0;
   display: inline-block;
   width: 100%;
+}
+
+.bs-component img {
+  height: 100px !important;
+  max-height: 100px;
+}
+
+
+// Inline Style Block
+.ex-display {
+  display: block;
+  padding: ($line-height-computed - 1) / 2;
+  margin: 0 0 ($line-height-computed / 2);
+  margin-top: ($line-height-computed / 2);
+  margin-bottom: ($line-height-computed * 1.75);
+  background-color: $pre-bg;
+  border: 1px solid $pre-border-color;
+  border-radius: $border-radius-base;
+}
+.ex-display h1 {
+  margin: $line-height-computed auto;
 }
