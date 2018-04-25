@@ -15,7 +15,7 @@ redirect_from: /docs/topic-09/10-src-fonts/04-page.md
     <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
-              <a href="../ex-files/site-ex-embed-fonts.zip" class="list-group-item">
+              <a href="../ex-files/sites-ex-embed-fonts.zip" class="list-group-item">
                 <img src="../img/hw-icon-download.svg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">Example Sites w/Embedded Fonts</h4>
                   <hr>
