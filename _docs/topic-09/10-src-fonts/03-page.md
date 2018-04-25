@@ -15,7 +15,7 @@ redirect_from: /docs/topic-09/10-src-fonts/03-page.md
     <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
-              <a href="../ex-files/site-ex-download-fonts.zip" download="index.html" class="list-group-item">
+              <a href="../ex-files/site-ex-download-fonts.zip" class="list-group-item">
                 <img src="../img/hw-icon-download.svg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">Example Site Using Downloaded Fonts</h4>
                   <hr>
