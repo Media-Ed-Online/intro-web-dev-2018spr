@@ -11,12 +11,12 @@ redirect_from: /docs/topic-10/04-margin/02-page.md
 In the following example, look at the two containers and how the are positioned based on the margin settings.
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="gXLVyW" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09] Margin, Pt. 1" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="gXLVyW" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09] Margin, Pt. 1" class="codepen"></p>
 </div>
 
 
 
-### Example 2
+### Margin and Padding Combined
 
 In the next example, notice how the `.child-container-03`, has both margin and padding properties set. Also notice, that the parent-container has neither. Note that the browser does not allow the child container's margin to push the height of the parent container. However, it does still create space between the top of the containing window and both the parent and child elements.
 

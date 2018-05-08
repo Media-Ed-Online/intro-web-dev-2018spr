@@ -9,21 +9,11 @@ redirect_from: /docs/topic-10/
 
 ## 10: The Box Model
 
-This is a significant week, as we will start to look at how we can use CSS to adjust the layout of elements within our websites.
+This is a significant Topic, as we will start to look at how we can use CSS to adjust the layout of elements within our websites.
 
-Specifically this week, we will be looking at:
+Specifically, we will be looking at element boxes, block elements, and their positioning on the page. This involves setting height and width amounts (including minimum and maxium values), margins, padding, borders, and visibility.
 
-- Element Boxes
-    - Height & Width, and setting min and max values
-    - Margin
-    - Padding
-    - Box Borders
-    - Hiding Elements
-- Inline Block Elements
-- Element Position
-- Introduction To Layouts
-    - Fixed
-    - Liquid
+Knowing these properties in the first step in creating site layouts, and will help you as you get into more advanced design principles.
 
 By the end of this Topic, we hope you:
 - Have a better understanding about block levels.

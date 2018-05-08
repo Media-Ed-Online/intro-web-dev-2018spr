@@ -2,14 +2,14 @@
 title: Properties
 module: topic-10
 permalink: /docs/topic-10/border-properties/
-redirect_from: /docs/topic-10/05-border/02-page.md
+redirect_from: /docs/topic-10/03-border/02-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-Like margin and padding, borders help define the amount of space a box or element takes up, as well as its relationship to other boxes.
+Like margin and padding (which you'll learn about soon), borders help define the amount of space a box or element takes up, as well as its relationship to other boxes.
 
-Unlike margin and padding, the border portion of the box can be separately colored, and has multiple style options. Border is more of a visual styling tool, than a space management tool.
+_Unlike_ margin and padding, however, the border portion of the box can be separately colored, and has multiple style options. Border is more of a visual styling tool, than a space management tool.
 
 There are three properties that make up border:
 - Width
@@ -17,14 +17,14 @@ There are three properties that make up border:
 - Color
 
 
-#### Border Width
+### Border Width
 
-The first property that defines a boxes border is the "border width" (`border-width: `). This takes a measurement value (just like padding and margin) that may be pixels, points, percentages, or ems.
+The first property that defines a boxes border is the "**border width**" (`border-width: `). This takes a measurement value that may be pixels, points, percentages, or ems.
 
 
-#### Border Style
+### Border Style
 
-The second property that defines a boxes border is the "border style" (`border-style: `). This takes a predefined keyword as its property:
+The second property that defines a boxes border is the "**border style**" (`border-style: `). This takes a predefined keyword as its property:
 
 - <div style="border-style:solid;padding:0.25em;margin-bottom:0.5em;">solid</div>
 - <div style="border-style:dashed;padding:0.25em;margin-bottom:0.5em;">dashed</div>
@@ -38,6 +38,8 @@ The second property that defines a boxes border is the "border style" (`border-s
 - <div style="border-style:none;padding:0.25em;margin-bottom:0.5em;">none</div>
 
 
-#### Border Color
+### Border Color
 
-The final property that defines borders is "border color" (`border-color: `). Border color, like `color: ` and `background-color: `, accepts an rgb(), rgba(), hex, or other color value.
+The final property that defines borders is "**border color**" (`border-color: `).
+
+Border color, like `color: ` and `background-color: `, accepts an rgb(), rgba(), hex, or other color value.

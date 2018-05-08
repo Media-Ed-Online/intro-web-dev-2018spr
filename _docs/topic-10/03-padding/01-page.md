@@ -7,65 +7,45 @@ redirect_from: /docs/topic-10/03-padding/01-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-Another technique for changing the size of individual boxes, as well as controlling the relationships of elements to each other, is with the margin & padding CSS properties.
+<img src="../img/box-model-padding.gif" alt="padding being added" style="width: 350px; margin: 0 auto 30px;" />
 
-In HTML and CSS, we imagine elements as boxes with certain properties. Specifically, every block element in HTML has padding, a border, and margin. This is known as the "Box Model".
+Another technique for changing the size of individual boxes (as well as controlling the relationships of elements to each other) is with the margin & padding CSS properties.
 
-To start, let's discuss padding. **Padding**, as seen on the box model image, is the amount of space between the inner content of the element and the element itself.
+**Padding**, as seen in the image above, is the amount of space between the inner content of the element and the element itself (a border was included to help you see this).
 
-<style>
-  .parent-container {
-      font-family: sans-serif;
-      font-style: italic;
-      font-size: 32px;
-      text-align: center;
-      padding: 0.5em;
-      width: 98%;
-      /*border: 1px solid black;*/
-      margin-top: 2em;
-  }
-  .margin {
-      font-size: 18px;
-      font-style: normal;
-      font-family: sans-serif;
-      border: 2px dashed #4e4e4e;
-      background-color: #a7a7a7;
-      padding: 1.5em;
-      padding-top: 0em;
-  }
-  .border {
-      background-color: #373E42;
-      color: #fff;
-      padding: 1.5em;
-      padding-top: 0em;
-  }
-  .padding {
-      background-color: #a7a7a7;
-      color: #000;
-      padding: 1.5em;
-      padding-top: 0em;
-  }
-  .example-content {
-      background-color: #79AF33;
-      color: #fff;
-      border: 2px dashed #d5d5d5;
-      padding: 0em;
-      /*padding-top: 0.5em;*/
-      font-size: 2.5em;
-  }
-</style>
-<div class="parent-container">
-  <a href="https://www.w3schools.com/css/css_boxmodel.asp">The Box Model</a>
-  <div class="margin">
-      Margin
-      <div class="border">
-          Border
-          <div class="padding">
-              <img src="../img/hand-point-right.png" style="width: 50px; border: none; display: inline;" /> Padding <img src="../img/hand-point-left.png" style="width: 50px; border: none; display: inline;" />
-              <div class="example-content">
-                  The Content!
-              </div>
-          </div>
-      </div>
-    </div>
-</div>
+### Padding Shorthand Property
+As with borders, you can use shorthand to set the padding of an element. A single value will define all padding, or you can use some nifty trailing tricks to set all four cushions:
+
+<div id="code-heading">CSS</div>
+```css
+/* ALL sides with have a padding of 1em: */
+.my-box {
+  padding: 1em;
+}
+
+/* The top AND bottom have a padding of 1em, the right AND left of 2em: */
+.my-box {
+  padding: 1em 2em;
+}
+
+/* Top, right, bottom, and left padding is manually set in that order: */
+.my-box {
+  padding: 1em 2em 3em 4em;
+}
+```
+
+
+
+### Individual Border Properties
+
+You can also control the padding of individual sides by setting them individually:
+
+<div id="code-heading">CSS</div>
+```css
+.my-box {
+  padding-top: ;
+  padding-right: ;
+  padding-bottom: ;
+  padding-left: ;
+}
+```

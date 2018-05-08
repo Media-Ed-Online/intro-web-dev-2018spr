@@ -792,13 +792,12 @@ topic-10:
     docs:
     - overview
 
-  - title: 01. Box Sizing
+  - title: 01. Sizing
     docs:
-    - box-size-intro
-    - box-size-px
-    - box-size-percent
-    - box-size-min-max
-    - box-size-testing
+    - box-intro
+    - box-model
+    - box-sizing
+    - box-sizing-min-max
     - todo-box-size
 
   - title: 02. Overflow
@@ -807,26 +806,25 @@ topic-10:
     - overflow-example
     - todo-overflow
 
-  - title: 03. Padding
+  - title: 03. Borders
+    docs:
+    - border-intro
+    - border-properties
+    - border-radius
+    - border-example
+    - todo-border
+
+  - title: 04. Padding
     docs:
     - padding-intro
     - padding-example
     - todo-padding
 
-  - title: 04. Margin
+  - title: 05. Margin
     docs:
     - margin-intro
     - margin-example
     - todo-margin
-
-  - title: 05. Borders
-    docs:
-    - border-intro
-    - border-properties
-    - border-radius
-    - border-rules
-    - border-example
-    - todo-border
 
   - title: 06. Display
     docs:
@@ -866,3 +864,26 @@ topic-10:
     - float-clear
     - float-example
     - todo-float
+
+
+# TOPIC 11 (Extra Credit)
+topic-11:
+  - title: "\"Site Layout for Beginners\""
+    docs:
+    - overview
+
+  - title: 01. Header
+    docs:
+    - box-size-intro
+
+  - title: 02. Body
+    docs:
+    - box-size-intro
+
+  - title: 03. Aside
+    docs:
+    - box-size-intro
+
+  - title: 04. Menus
+    docs:
+    - box-size-intro

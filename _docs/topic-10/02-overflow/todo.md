@@ -12,10 +12,24 @@ redirect_from: /docs/topic-10/02-overflow/todo.md
       <div class="list-group">
         <div class="list-group-item" style="background-color: #F5F5F5">
           <img src="../img/hw-icon-duckett.svg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
-          <h4 class="list-group-item-heading">Duckett<br />Ch 13: pg 306-308</h4>
+          <h4 class="list-group-item-heading">Duckett<br />Ch 13: pg 306</h4>
           <hr>
           <p class="list-group-item-text" style="color: #777;"><i class="fa fa-clock-o" aria-hidden="true"></i> 2 minute reading</p>
         </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a href="../ex-files/overflow.html" target="_blank" class="list-group-item">
+          <img src="./../img/hw-icon-resize.svg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
+          <h4 class="list-group-item-heading">Resize the Page</h4>
+          <hr>
+          <p class="list-group-item-text">When this opens, resize your browser window to see how the content overflows.</p>
+          <hr>
+          <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 1 minute activity</p>
+        </a>
       </div>
     </div>
   </div>

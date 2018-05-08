@@ -2,12 +2,12 @@
 title: Radius
 module: topic-10
 permalink: /docs/topic-10/border-radius/
-redirect_from: /docs/topic-10/05-border/03-page.md
+redirect_from: /docs/topic-10/03-border/03-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-An additional border property that can be defined is "border radius" (`border-radius: `). This changes the corners of a border and defines the amount of "curve".
+An additional border property that can be defined is "**border radius**" (`border-radius: `). This changes the corners of a border and defines the amount of curve.
 
 This property can be set with:
 

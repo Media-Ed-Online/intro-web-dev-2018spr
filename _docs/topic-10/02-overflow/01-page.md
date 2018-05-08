@@ -7,7 +7,9 @@ redirect_from: /docs/topic-10/02-overflow/01-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
-We saw an example on the last page, where the text inside an element "overflowed" its containing box. We can choose to address this situation in a couple of ways:
+<img src="../img/box-model-overflow.gif" alt="example of overflow scrolling" style="width: 350px; margin: 0 auto 30px;" />
+
+We saw an example on the <a href="./../box-sizing#combine-size" target="_blank">combing size types</a>, where the text inside an element "overflowed" its containing box. We can choose to address this situation in a couple of ways:
 
 1. Ignore it (boo!).
 2. Resize our elements so they fit the content.

@@ -7,6 +7,13 @@ redirect_from: /docs/topic-10/02-overflow/01-page.md
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />
 
+<div id="code-heading">CSS</div>
+```css
+.my-box {
+  overflow: ;
+}
+```
+
 The following example is adapted from the last page. It shows the same sets of boxes with _Lorem Ipsum_ three times. Each area has the overflow set to scroll, hidden, and visible, respectively.
 
 <div class="codepen-embed">
