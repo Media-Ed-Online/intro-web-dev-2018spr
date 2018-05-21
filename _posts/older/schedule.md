@@ -43,7 +43,7 @@ Publishing a single-page site utilizing basic HTML, and the first peer Workshop 
 <div class="divider"></div>
 
 ## Week 4: Mon, Feb 12 - Wed, Feb 19
-### <span class="caret-right"></span><a href="/docs/topic-04/">Intro to HTML</a>
+### <span class="caret-right"></span><a href="/docs/topic-04/">Beginning HTML</a>
 Reviewing HTML document structural elements, and exploring semantic markup and attributes.
 - A3: Markup'd Manual
 - P1 Workshop (Assessments)

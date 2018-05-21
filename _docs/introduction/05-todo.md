@@ -26,9 +26,9 @@ This area will contain related areas you should explore. Most are required for d
           <div class="list-group">
               <a href="https://moodle.umt.edu" target="_blank" class="list-group-item">
                 <img src="../img/hw-icon-moodle.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
-                  <h4 class="list-group-item-heading">Introductory Quiz</h4>
+                  <h4 class="list-group-item-heading">Student Contract</h4>
                   <hr>
-                  <p class="list-group-item-text"><i class="fa fa-edit" aria-hidden="true"></i> Homework Assignment</p>
+                  <p class="list-group-item-text"><i class="fa fa-edit" aria-hidden="true"></i> Required Submission</p>
               </a>
             </div>
         </div>

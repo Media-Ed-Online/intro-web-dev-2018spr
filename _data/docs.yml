@@ -72,7 +72,7 @@ introduction:
 
 # TOPIC 01
 topic-01:
-  - title: "\"Intro to Development\""
+  - title: "\"Beginning Development\""
     docs:
     - overview
 
@@ -124,7 +124,7 @@ topic-01:
 
 # TOPIC 02
 topic-02:
-  - title: "\"Your Dev Environment\""
+  - title: "\"Your Development Environment\""
     docs:
     - overview
 
@@ -261,7 +261,7 @@ topic-03:
 
 # TOPIC 04
 topic-04:
-  - title: "\"Intro to HTML\""
+  - title: "\"Beginning HTML\""
     docs:
     - overview
 
@@ -829,10 +829,7 @@ topic-10:
   - title: 06. Display
     docs:
     - display-intro
-    - display-set
-    - display-inline
-    - display-inline-block
-    - display-block
+    - display-properties
     - display-example
     - todo-display
 

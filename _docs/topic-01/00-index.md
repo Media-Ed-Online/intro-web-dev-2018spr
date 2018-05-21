@@ -7,7 +7,7 @@ redirect_from: /docs/topic-01/
 
 <img src="../img/intro-img-settings.svg" style="width: 200px; margin: auto;" >
 
-## 01: Intro to Development
+## 01: Beginning Development
 
 This topic is all about the internet, what it is, and what it _isn’t_. We'll take a wide look at how we approach creating for the web, and begin setting up your development environment.
 

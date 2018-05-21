@@ -38,7 +38,7 @@ This is exclusively an online course. As such, you will be expected to engage wi
       <ul>
         <li><a href="https://moodle.umt.edu" target="_blank">Moodle</a>: You will submit and share your homework and review your grades via Moodle. Assignments, Projects, and Workshop requirements will all be provided here.</li>
         <li><a href="{{ site.url }}" target="_blank">Course Main Website</a>: Where all your learning materials are hosted, like an online textbook.</li>
-        <li><a href="https://github.com/Media-Ed-Online/intro-web-dev-resources/issues" target="_blank">GitHub Resources Repo</a>: Location for homework examples and the required Issues board.</li>
+        <li><a href="https://github.com/Media-Ed-Online/intro-web-dev-resources-summer/issues" target="_blank">GitHub Resources Repo</a>: Location for homework examples and the required Issues board.</li>
       </ul>
   </div>
   <div class="tab-pane fade" id="step2">

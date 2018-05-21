@@ -1,5 +1,5 @@
 ---
-title: Intro to HTML
+title: Beginning HTML
 module: topic-03
 permalink: /docs/topic-03/html-intro/
 redirect_from: /docs/topic-03/05-page.md

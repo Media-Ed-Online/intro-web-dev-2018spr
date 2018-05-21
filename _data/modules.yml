@@ -1,10 +1,10 @@
 # Modules
 examples: ["Theme Examples"]
 introduction: ["Introduction"]
-topic-01: ["Intro to Development"]
-topic-02: ["Your Dev Environment"]
+topic-01: ["Beginning Delopment"]
+topic-02: ["Your Development Environment"]
 topic-03: ["My First Webpage"]
-topic-04: ["Intro to HTML"]
+topic-04: ["Beginning HTML"]
 topic-05: ["Figures and Forms"]
 topic-06: ["Managing Media"]
 topic-07: ["The Instructable"]

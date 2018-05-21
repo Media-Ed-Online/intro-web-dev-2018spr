@@ -9,9 +9,9 @@ permalink: /posts/resources/
 The most wonderful think about web development is its community. This field is constantly evolving, and its success heavily dependent on working together.
 
 ### 1. Issues Board
-Your first stop for aid is the [GitHub Issues Board](https://github.com/Media-Ed-Online/intro-web-dev-resources/issues) for this course. Instructors and students both patrol the threads here, and it’s your best place to get results quickly.
+Your first stop for aid is the [GitHub Issues Board](https://github.com/Media-Ed-Online/intro-web-dev-resources-summer/issues) for this course. Instructors and students both patrol the threads here, and it’s your best place to get results quickly.
 
-Plus, participation is required, and you can hit two birds with one stone by asking here first. Click the &nbsp;<a href="https://github.com/Media-Ed-Online/intro-web-dev-resources/issues"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>&nbsp; icon from the navigation menu above at any time to check-in!
+Plus, participation is required, and you can hit two birds with one stone by asking here first. Click the &nbsp;<a href="https://github.com/Media-Ed-Online/intro-web-dev-resources-summer/issues"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>&nbsp; icon from the navigation menu above at any time to check-in!
 
 
 ### 2. The BA Lab (McGill 127)

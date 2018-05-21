@@ -2,7 +2,7 @@
 title: Padding in Practice
 module: topic-10
 permalink: /docs/topic-10/padding-example/
-redirect_from: /docs/topic-10/03-padding/01-page.md
+redirect_from: /docs/topic-10/04-padding/01-page.md
 ---
 
 <img src="./../../../img/arrow-divider.svg" style="width: 75px; border: none; margin: 0px 0 20px 0" />

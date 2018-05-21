@@ -7,7 +7,7 @@ redirect_from: /docs/topic-04/
 
 <img src="../img/intro-img-work-browser.svg" style="width: 200px; margin: auto;" >
 
-## 04: Intro to HTML
+## 04: Beginning HTML
 
 This Topic, we'll spend our time almost exclusively learning about additional HTML elements.
 

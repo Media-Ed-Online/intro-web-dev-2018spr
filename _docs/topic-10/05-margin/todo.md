@@ -3,7 +3,7 @@ title: TODO
 todo: <i class="fa fa-check-square-o" aria-hidden="true"></i>
 module: topic-10
 permalink: /docs/topic-10/todo-margin/
-redirect_from: /docs/topic-10/04-margin/todo.md
+redirect_from: /docs/topic-10/05-margin/todo.md
 ---
 
 <div class="row text-center">
