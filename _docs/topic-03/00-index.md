@@ -7,7 +7,7 @@ redirect_from: /docs/topic-03/
 
 <img src="../img/intro-img-p1-internetting.svg" style="width: 250px; margin: auto;" >
 
-## 03: Project 1: My First Webpage
+## 03: Basic Pages (Project 1)
 
 "Project topics" run much like the others, but instead of concluding with an assignment, you'll use knowledge gained here and in the previous topic set to create actual live sites ("projects"), which you'll then submit for workshopping among your peers.
 
