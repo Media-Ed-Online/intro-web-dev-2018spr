@@ -17,7 +17,7 @@ redirect_from: /docs/topic-03/33-page.md
     <div class="col-lg-4">
         <div class="bs-component">
           <div class="list-group">
-              <a href="../ex-files/index.html" download target="_blank" class="list-group-item">
+              <a href="../ex-files/example-index.zip" class="list-group-item">
                 <img src="../img/hw-icon-download.svg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">Example index.html File</h4>
                   <hr>
