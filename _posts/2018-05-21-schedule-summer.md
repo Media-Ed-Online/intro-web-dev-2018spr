@@ -27,7 +27,7 @@ Introduction to the web, GitHub.com registration, markdown, and creating new fil
 
 ### <span class="caret-right"></span><a href="/docs/topic-02/">Your Development Environment</a>
 Continuing discussion on the web and net, plus creating file hierarchies exploring repositories.
-- A2: File Management
+- A2: My First Repository
 
 
 <div class="divider"></div>
