@@ -21,10 +21,10 @@ The browser will do this by asking the client for the font. If the client doesn'
 
 See how poorly "Impact" references what will eventually be "Merriweather?"
 
-<img src="../img/font-flop-impact.gif" style="width: 625px; margin: auto" alt="two fonts jarring with each other" title="Merriweather vs. Impact"/>
+<img src="../img/font-flop-impact.gif" style="width: 100%; max-width: 625px; margin: auto" alt="two fonts jarring with each other" title="Merriweather vs. Impact"/>
 
 "Georgia" is a much better fallback option (show here with additional character adjustments):
 
-<img src="../img/font-flop-georgia.gif" style="width: 600px; margin: auto" alt="two fonts meshing with each other" title="Merriweather vs. Georgia"/>
+<img src="../img/font-flop-georgia.gif" style="width: 100%; max-width: 600px; margin: auto" alt="two fonts meshing with each other" title="Merriweather vs. Georgia"/>
 
 Visit [Font Style Matcher](https://meowni.ca/font-style-matcher/) to experiment with finding appropriate fallbacks!

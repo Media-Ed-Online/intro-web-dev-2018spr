@@ -24,15 +24,15 @@ In other words, "Calabri" will appear for Windows users accessing the site, but 
     <div class="tab-pane fade active in" id="system">
       <p>System fonts are those already installed on your local device and system. These are available to you and most programs you use, but are not necessarily to the web (usually due to licensing).</p>
       <p>You may have never second-guessed your use of system fonts, because you often select them with the intent to print. But most system fonts are not set up for the web, and should be limited to usage in logos and other branding. This is because they must be exported as <em>images</em>, affecting both assistive technologies and search engine indexing.</p>
-      <div style="width: 400px; margin: 40px auto;">
+      <div style="width: 100%; max-width: 400px; margin: 40px auto;">
         <img src="../img/system-font-ex-bakery.svg" style="margin: auto;" />
         <p style="margin-top: 10px;">Font: “<a href="http://www.stereo-type.fr/fonts/bakery/" target="_blank">Bakery</a>”</p>
       </div>
-      <div style="width: 400px; margin: 40px auto;">
+      <div style="width: 100%; max-width: 400px; margin: 40px auto;">
         <img src="../img/system-font-ex-marker.svg" style="margin: auto;" />
         <p style="margin-top: 10px;">Fonts: “<a href="https://fonts2u.com/fresh-marker.font" target="_blank">Fresh Marker</a>” and “<a href="https://www.whatfontis.com/Armageda-Wide.font" target="_blank">Armegeda Wide</a>”</p>
       </div>
-      <div style="width: 400px; margin: 40px auto;">
+      <div style="width: 100%; max-width: 400px; margin: 40px auto;">
         <img src="../img/system-font-ex-maybe.svg" style="margin: auto;" />
         <p style="margin-top: 10px;">Font: “<a href="http://fontpro.com/maybe-maybe-not-font-429" target="_blank">Maybe Maybe Not</a>”</p>
       </div>
